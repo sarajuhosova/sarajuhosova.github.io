@@ -29,7 +29,7 @@ title: Sára Juhošová
 > We are hoping these interviews will help us determine how you interact with your theorem provers and to gain insights on how we can improve the user experience.
 > We are interested in all aspects of interactive theorem provers, including but not limited to their design, their tooling, their libraries, and their documentation. <br>
 > <br>
-> Sign up here: [https://tudelft.fra1.qualtrics.com/jfe/form/SV_0UJKuqcWC9G4FEy](https://tudelft.fra1.qualtrics.com/jfe/form/SV_0UJKuqcWC9G4FEy)
+> [Sign up here!](https://tudelft.fra1.qualtrics.com/jfe/form/SV_0UJKuqcWC9G4FEy)
 
 ### [2024] How Novices Perceive Interactive Theorem Provers
   
