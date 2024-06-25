@@ -1,19 +1,78 @@
+$top-padding: 2em;
+$oranje: #bd8100;
+
 body {
-    padding: 1em 10%;
-    font-family: sans-serif;
+    font-family: Avantgarde, "TeX Gyre Adventor", "URW Gothic L", sans-serif;
+
+    padding: $top-padding;
+    width: 80%;
+    margin: 0 auto;
+
+    display: flex;
+    gap: 2em;
+    flex: 1 auto;
 }
 
-img {
+a {
+    color: $oranje;
+    text-decoration: none;
+}
+
+.profile {
+    width: 100%;
+    display: block;
+}
+
+blockquote > p {
+    border-left: 1px solid $oranje;
+    padding-left: 1em;
+}
+
+.info {
+    display: flex;
+    align-items: center;
+    justify-content: right;
+
+    text-decoration: none;
+    color: black;
+}
+
+.download {
+    border: 1px solid $oranje;
+    border-radius: 4px;
+    padding: 0 .5em;
+}
+
+.icon {
+    width: 1em;
     height: auto;
-    max-width: 80%;
+    margin: 0 .5em;
+
+    display: inline;
+}
+
+h1 {
+    margin-top: 0;
+}
+
+h2 {
+    padding-top: 1em;
+}
+
+h3 {
+    color: $oranje;
 }
 
 .about {
-    width: 20%;
-    float: left;
+    position: sticky;
+    top: $top-padding;
+    align-self: flex-start;
+
     text-align: right;
+
+    width: 100%;
 }
 
 .content {
-    margin-left: 25%;
+    flex: auto;
 }

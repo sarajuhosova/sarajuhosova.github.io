@@ -28,10 +28,6 @@ github_username:  sarajuhosova
 
 # Build settings
 plugins:
-<<<<<<< HEAD
-=======
-  - jekyll-toc
->>>>>>> 67b26f1 (Add some layout and styling)
   - jemoji
 
 # Exclude from processing.
