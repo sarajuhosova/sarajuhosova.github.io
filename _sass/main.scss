@@ -43,6 +43,11 @@ blockquote > p {
     padding: 0 .5em;
 }
 
+.link:hover {
+    color: white;
+    background-color: $oranje;
+}
+
 .icon {
     width: 1em;
     height: auto;
