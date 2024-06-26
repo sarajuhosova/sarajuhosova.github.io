@@ -13,7 +13,13 @@ title: Sára Juhošová
 
 ## Things I Like
 
-🧙 (fantasy) books 🎲 [board games](https://boardgamegeek.com/collection/user/sarantja?sort=rank&sortdir=asc&rankobjecttype=subtype&rankobjectid=1&columns=title%7Cthumbnail%7Crank%7Crating%7Cbggrating%7Ccomment%7Ccommands&geekranks=Board%20Game%20Rank&objecttype=thing&ff=1&subtype=boardgame) 🍀 irish dance 🏃‍♀️ running 🚴 cycling 🏂 snowboarding 🎅 [advent of code](https://github.com/sarajuhosova/aoc) 🎮 video games 
+🧙 (fantasy) books 🎲 [board games](https://boardgamegeek.com/collection/user/sarantja?sort=rank&sortdir=asc&rankobjecttype=subtype&rankobjectid=1&columns=title%7Cthumbnail%7Crank%7Crating%7Cbggrating%7Ccomment%7Ccommands&geekranks=Board%20Game%20Rank&objecttype=thing&ff=1&subtype=boardgame)
+
+🏃‍♀️ running 🚴 cycling 🏂 snowboarding
+
+🎅 [advent of code](https://github.com/sarajuhosova/aoc) 🎮 video games 
+
+🍀 irish dance
 
 ## My Work
   
@@ -28,8 +34,8 @@ title: Sára Juhošová
 > <br>
 > We are hoping these interviews will help us determine how you interact with your theorem provers and to gain insights on how we can improve the user experience.
 > We are interested in all aspects of interactive theorem provers, including but not limited to their design, their tooling, their libraries, and their documentation. <br>
-> <br>
-> [Sign up here!](https://tudelft.fra1.qualtrics.com/jfe/form/SV_0UJKuqcWC9G4FEy)
+
+<a href="https://tudelft.fra1.qualtrics.com/jfe/form/SV_0UJKuqcWC9G4FEy" class="link">Sign up here!</a>
 
 ### [2024] How Novices Perceive Interactive Theorem Provers
   
@@ -39,4 +45,4 @@ title: Sára Juhošová
 > Analysis of the results revealed design choices and tool deficiencies which do not provide an adequate level of support to beginner nor advanced users.
 > These observations point to one prominent point of improvement: providing a more accessible and sturdy infrastructure for ITP programmers.
 
-<a href="/assets/files/novices/extended-abstract.pdf" class="download">Extended Abstract</a>
+<a href="/assets/files/novices/extended-abstract.pdf" class="link">Extended Abstract</a>
