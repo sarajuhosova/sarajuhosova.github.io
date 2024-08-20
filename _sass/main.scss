@@ -37,6 +37,14 @@ blockquote > p {
     color: black;
 }
 
+.conf {
+    padding-left: 2em;
+}
+
+.conf:before {
+    content: '@ ';
+}
+
 .link {
     border: 1px solid $oranje;
     border-radius: 4px;

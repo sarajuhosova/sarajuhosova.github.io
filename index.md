@@ -45,5 +45,8 @@ title: Sára Juhošová
 > Analysis of the results revealed design choices and tool deficiencies which do not provide an adequate level of support to beginner nor advanced users.
 > These observations point to one prominent point of improvement: providing a more accessible and sturdy infrastructure for ITP programmers.
 
+<a href="https://icfp24.sigplan.org/track/icfp-2024-student-research-competition" class="conf">ICFP SRC '24</a> <br>
+<a href="https://icfp24.sigplan.org/home/tyde-2024" class="conf">TyDe '24</a>
+
 <a href="/assets/files/novices/extended-abstract.pdf" class="link">Extended Abstract</a>
 <a href="/assets/files/novices/poster.pdf" class="link">Poster</a>
