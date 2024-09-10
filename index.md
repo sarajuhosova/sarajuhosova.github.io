@@ -50,3 +50,4 @@ title: Sára Juhošová
 
 <a href="/assets/files/novices/extended-abstract.pdf" class="link">Extended Abstract</a>
 <a href="/assets/files/novices/poster.pdf" class="link">Poster</a>
+<a href="/assets/files/novices/slides.pdf" class="link">Slides</a>
