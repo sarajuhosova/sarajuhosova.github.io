@@ -1,0 +1,37 @@
+# - title: How We Use Interactive Theorem Provers
+#   year: 2025
+#   abstract: |
+#     <b>Join an (online) interview to help us determine how we use interactive theorem provers!</b> <br>
+#     <br>
+#     <b>What?</b> 90 - 120 minute interviews (possibly including a small think-aloud programming session) <br>
+#     <b>When?</b> interviews will be scheduled starting September 2024 <br>
+#     <b>Where?</b> online (participants from anywhere are welcome) <br>
+#     <b>Who?</b> anyone who uses or has used an interactive theorem prover for whatever purpose <br>
+#     <br>
+#     We are hoping these interviews will help us determine how you interact with your theorem provers and to gain insights on how we can improve the user experience.
+#     We are interested in all aspects of interactive theorem provers, including but not limited to their design, their tooling, their libraries, and their documentation. <br>
+#   links:
+#     - title: Sign up here!
+#       link: https://tudelft.fra1.qualtrics.com/jfe/form/SV_0UJKuqcWC9G4FEy
+- title: How Novices Perceive Interactive Theorem Provers
+  year: 2024
+  abstract: |
+    Interactive theorem provers (ITPs) are known to have a steep learning curve and poor usability.
+    This hinders their spread into commercial software development, wasting their potential to improve software quality.
+    To understand what makes them inaccessible to novices, we conducted an online survey among bachelor students, asking them to list the obstacles they encountered while learning Agda.
+    Analysis of the results revealed design choices and tool deficiencies which do not provide an adequate level of support to beginner nor advanced users.
+    These observations point to one prominent point of improvement: providing a more accessible and sturdy infrastructure for ITP programmers.
+  conferences:
+    - name: ICFP SRC '24
+      link: https://icfp24.sigplan.org/track/icfp-2024-student-research-competition
+    - name: TyDe '24
+      link: https://icfp24.sigplan.org/home/tyde-2024
+  links:
+    - title: Extended Abstract
+      link: /assets/files/novices/extended-abstract.pdf
+    - title: Poster
+      link: /assets/files/novices/poster.pdf
+    - title: Slides
+      link: /assets/files/novices/slides.pdf
+    - title: Haskell Interlude
+      link: https://haskell.foundation/podcast/58/

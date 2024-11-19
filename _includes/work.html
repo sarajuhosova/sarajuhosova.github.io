@@ -1,0 +1,23 @@
+<h2>My Work</h2>
+
+{% for work in site.data.work %}
+
+<h3>[{{ work.year }}] {{ work.title }}</h3>
+
+    <blockquote><p>{{ work.abstract }}</p></blockquote>
+
+    {% for conf in work.conferences %}
+
+        <a href="{{ conf.link }}" class="conf">{{ conf.name }}</a> <br>
+
+    {% endfor %}
+
+    <br>
+
+    {% for link in work.links %}
+
+        <a href="{{ link.link }}" class="link">{{ link.title }}</a>
+
+    {% endfor %}
+
+{% endfor %}

@@ -2,22 +2,12 @@
 
 <h1>Sára Juhošová</h1>
 
-<a class="info" href="https://github.com/sarajuhosova/">
-    <span>sarajuhosova</span>
-    <img class="icon" src="/assets/icons/github.png"> 
+{% for info in site.data.info %}
+
+<a class="info" href="{{ info.link }}">
+    <span>{{ info.title }}</span>
+    <img class="icon" src="{{ info.icon }}"> 
 </a>
 <br>
-<a class="info" href="https://www.linkedin.com/in/sjuhosova/">
-    <span>in/sjuhosova</span>
-    <img class="icon" src="/assets/icons/linkedin.png">
-</a>
-<br>
-<a class="info" rel="me" href="https://mastodon.social/@sarantja">
-    <span>sarantja</span>
-    <img class="icon" src="/assets/icons/mastodon.svg">
-</a>
-<br>
-<a class="info" href="https://pl.ewi.tudelft.nl/">
-    <span>TU Delft</span>
-    <img class="icon" src="/assets/icons/location.png">
-</a>
+
+{% endfor %}
