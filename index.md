@@ -22,20 +22,6 @@ title: Sára Juhošová
 🍀 irish dance
 
 ## My Work
-  
-### [2025] How We Use Interactive Theorem Provers
-
-> **Join an (online) interview to help us determine how we use interactive theorem provers!** <br>
-> <br>
-> **What?** 90 - 120 minute interviews (possibly including a small think-aloud programming session) <br>
-> **When?** interviews will be scheduled starting September 2024 <br>
-> **Where?** online (participants from anywhere are welcome) <br>
-> **Who?** anyone who uses or has used an interactive theorem prover for whatever purpose <br>
-> <br>
-> We are hoping these interviews will help us determine how you interact with your theorem provers and to gain insights on how we can improve the user experience.
-> We are interested in all aspects of interactive theorem provers, including but not limited to their design, their tooling, their libraries, and their documentation. <br>
-
-<a href="https://tudelft.fra1.qualtrics.com/jfe/form/SV_0UJKuqcWC9G4FEy" class="link">Sign up here!</a>
 
 ### [2024] How Novices Perceive Interactive Theorem Provers
   
