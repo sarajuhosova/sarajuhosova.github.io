@@ -20,3 +20,5 @@ title: Sára Juhošová
 🎅 [advent of code](https://github.com/sarajuhosova/aoc) 🎮 video games 
 
 🍀 irish dance
+    
+<div> {% include work.html %} </div>
