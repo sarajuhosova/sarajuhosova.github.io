@@ -24,7 +24,7 @@ a {
     display: block;
 }
 
-blockquote > p {
+blockquote>p {
     border-left: 1px solid $oranje;
     padding-left: 1em;
 }
@@ -92,19 +92,4 @@ h3 {
 
 .content {
     flex: auto;
-}
-
-.picture-grid {
-    margin: 3em;
-    display: grid;
-    grid-template-columns: auto auto auto;
-    gap: 5em;
-}
-
-.picture-grid img {
-    width: 100%;
-}
-
-.picture-grid .date {
-    color: gray;
 }

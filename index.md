@@ -21,4 +21,6 @@ title: Sára Juhošová
 
 🍀 irish dance
     
-<div> {% include work.html %} </div>
+{% include work.html %}
+
+{% include pictures.html %}
