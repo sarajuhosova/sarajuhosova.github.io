@@ -20,7 +20,13 @@ title: Sára Juhošová
 🎅 [advent of code](https://github.com/sarajuhosova/aoc) 🎮 video games 
 
 🍀 irish dance
-    
-{% include work.html %}
 
-{% include pictures.html %}
+{% for section in site.data.sections %}
+
+<div id="{{ section.id }}">
+    <h2>{{ section.title }}</h2>
+
+    {% include sections/{{ section.id }}.html %}
+</div>
+
+{% endfor %}

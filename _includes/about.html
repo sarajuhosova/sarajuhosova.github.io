@@ -2,12 +2,21 @@
 
 <h1>Sára Juhošová</h1>
 
+<!-- Table of Contents -->
+
+<div class="toc">
+    {% for section in site.data.sections %}
+        <a href="{{ site.baseurl }}#{{ section.id }}" target="_self">{{ section.title }} ▸</a> <br>
+    {% endfor %}
+</div>
+
+<!-- Links to Socials -->
+
 {% for info in site.data.info %}
 
 <a class="info" href="{{ info.link }}">
     <span>{{ info.title }}</span>
     <img class="icon" src="{{ info.icon }}"> 
 </a>
-<br>
 
 {% endfor %}
