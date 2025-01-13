@@ -3,6 +3,16 @@
 
     <h3>[{{ work.year }}] {{ work.title }}</h3>
 
+        {% if work.authors != nil %}
+            <p class="authors"> <em>in collaboration with:</em>
+                {% for author in work.authors %}
+        
+                    <a href="{{ author.link }}" class="link">{{ author.name }}</a>
+        
+                {% endfor %}
+            </p>
+        {% endif %}
+
         <blockquote><p>{{ work.abstract }}</p></blockquote>
 
         {% for conf in work.conferences %}
@@ -11,13 +21,15 @@
 
         {% endfor %}
 
-        <br>
+        {% if work.links != nil %}
+            <br>
+            
+            {% for link in work.links %}
 
-        {% for link in work.links %}
+                <a href="{{ link.link }}" class="link">{{ link.title }}</a>
 
-            <a href="{{ link.link }}" class="link">{{ link.title }}</a>
-
-        {% endfor %}
+            {% endfor %}
+        {% endif %}
 
     {% endfor %}
 </div>

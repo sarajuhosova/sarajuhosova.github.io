@@ -1,18 +1,23 @@
-# - title: How We Use Interactive Theorem Provers
-#   year: 2025
-#   abstract: |
-#     <b>Join an (online) interview to help us determine how we use interactive theorem provers!</b> <br>
-#     <br>
-#     <b>What?</b> 90 - 120 minute interviews (possibly including a small think-aloud programming session) <br>
-#     <b>When?</b> interviews will be scheduled starting September 2024 <br>
-#     <b>Where?</b> online (participants from anywhere are welcome) <br>
-#     <b>Who?</b> anyone who uses or has used an interactive theorem prover for whatever purpose <br>
-#     <br>
-#     We are hoping these interviews will help us determine how you interact with your theorem provers and to gain insights on how we can improve the user experience.
-#     We are interested in all aspects of interactive theorem provers, including but not limited to their design, their tooling, their libraries, and their documentation. <br>
-#   links:
-#     - title: Sign up here!
-#       link: https://tudelft.fra1.qualtrics.com/jfe/form/SV_0UJKuqcWC9G4FEy
+- title: Pinpointing the Learning Obstacles of an Interactive Theorem Prover
+  year: 2025
+  authors:
+    - name: Andy Zaidman
+      link: https://azaidman.github.io/
+    - name: Jesper Cockx
+      link: https://jesper.sikanda.be/
+  abstract: |
+    Interactive theorem provers (ITPs) are programming languages which allow users to reason about and verify their programs.
+    Although they promise strong correctness guarantees and expressive type annotations which can act as code summaries, they tend to have a steep learning curve and poor usability.
+    Unfortunately, there is only a vague understanding of the underlying causes for these problems within the research community.
+    To pinpoint the exact usability bottlenecks of ITPs, we conducted an online survey among 41 computer science bachelor students, asking them to reflect on the experience of learning to use the Agda ITP and to list the obstacles they faced during the process.
+    Qualitative analysis of the responses revealed confusion among the participants about the role of ITPs within software development processes as well as design choices and tool deficiencies which do not provide an adequate level of support to ITP users.
+    To make ITPs more accessible to new users, we recommend that ITP designers look beyond the language itself and also consider its wider contexts of tooling, developer environments, and larger software development processes.
+  conferences:
+    - name: ICPC '25
+      link: https://conf.researchr.org/track/icpc-2025/icpc-2025-research
+  # links:
+  #   - title: DOI
+  #     link: /
 - title: How Novices Perceive Interactive Theorem Provers
   year: 2024
   abstract: |
