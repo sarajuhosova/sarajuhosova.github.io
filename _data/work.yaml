@@ -15,9 +15,11 @@
   conferences:
     - name: ICPC '25
       link: https://conf.researchr.org/track/icpc-2025/icpc-2025-research
-  # links:
-  #   - title: DOI
-  #     link: /
+  links:
+    - title: Pre-Print
+      link: /assets/files/2025-icpc.pdf
+    # - title: DOI
+    #   link: /
 - title: How Novices Perceive Interactive Theorem Provers
   year: 2024
   abstract: |
