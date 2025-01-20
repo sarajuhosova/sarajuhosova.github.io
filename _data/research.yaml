@@ -44,3 +44,33 @@
       link: /assets/files/novices/slides.pdf
     - title: Haskell Interlude
       link: https://haskell.foundation/podcast/58/
+- title: Bringing Formal Verification into Widespread Programming Language Ecosystems (MSc Thesis)
+  year: 2023
+  abstract: |
+    Formal verification is a powerful tool for ensuring program correctness but is often hard to learn to use and has not yet spread into the commercial world.
+    This thesis focuses on finding an easy-to-use solution to make formal verification available in popular programming language ecosystems.
+    We propose a solution where users can write code in an interactive theorem prover and then transpile it into a more popular programming language.
+    We use Agda2HS as a case study to determine what challenges users find in using such a tool, improve selected features, and then conduct a user study to evaluate the usability.
+    We find that detailed documentation, support for commonly-used features in the target programming language, features that facilitate verification, integration of the tool into the target ecosystem, and user studies are necessary for the accessibility of such a tool.
+  conferences:
+    - name: TU Delft
+      link: https://www.tudelft.nl/onderwijs/opleidingen/masters/cs/msc-computer-science
+  links:
+    - title: Repository
+      link: https://resolver.tudelft.nl/uuid:4260f3fb-f0dd-4a1c-8097-58855609ba41
+- title: Validating Type Checkers Using Property-Based Testing (BSc Thesis)
+  year: 2021
+  abstract: |
+    Manually testing definitional interpreters and their type checkers is a tedious and error-prone process which can largely benefit from automation.
+    This study evaluates the effectiveness of property-based testing on errors in type checkers.
+    Metrics used include the ability to catch different types of errors as well as the ability to provide a good margin of confidence in the results.
+    We define two languages in Haskell and identify properties which should hold for their type checkers.
+    Using a bottom-up approach to expression generation, we evaluate the effectiveness of property-based testing on test suites of type checkers with various types of errors.
+    The method proves to be effective for both the simple and the complex language and manages to catch all defined error types with at least one property to a sufficient degree of confidence.
+    We conclude that property-based testing is an effective tool to help with manual grading of type checkers for definitional interpreters.
+  conferences:
+    - name: TU Delft
+      link: https://www.tudelft.nl/en/onderwijs/opleidingen/bachelors/computer-science-and-engineering/bachelor-of-computer-science-and-engineering
+  links:
+    - title: Repository
+      link: https://resolver.tudelft.nl/uuid:f4fcc73b-55d6-4698-abd7-b072fb9a7685
