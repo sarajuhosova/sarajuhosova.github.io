@@ -1,0 +1,25 @@
+<div class="awards">
+
+    {% for awards in site.data.awards %}
+
+    <ul data-year="{{ awards.year }}">
+
+        {% for category in awards.categories %}
+
+        <li>
+            <div class="type">{{ category.type }}</div>
+            <a href="{{ category.link }}">{{ category.name }}</a>
+
+            {% if category.comment != nil %}
+                <blockquote><p>{{ category.comment }}</p></blockquote>
+            {% endif %}
+
+        </li>
+
+        {% endfor %}
+
+    </ul>
+
+    {% endfor %}
+
+</div>

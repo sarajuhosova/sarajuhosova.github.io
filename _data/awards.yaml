@@ -1,0 +1,46 @@
+- year: 2024
+  categories:
+    - type: Books
+      name: Brandon Sanderson - Secret Projects
+      link: https://www.kickstarter.com/projects/dragonsteel/surprise-four-secret-novels-by-brandon-sanderson
+    - type: Board Game
+      name: Gaia Project
+      link: https://boardgamegeek.com/boardgame/220308/gaia-project
+    - type: Video Game
+      name: "The Witcher 3: Wild Hunt"
+      link: https://www.thewitcher.com/us/en/witcher3
+- year: 2023
+  categories:
+    - type: Book Series
+      name: Robert Jordan - The Wheel of Time
+      link: https://dragonmount.com/Books/index/
+    - type: Board Game
+      name: "Clank!: A Deck-Building Adventure"
+      link: https://boardgamegeek.com/boardgame/201808/clank-a-deck-building-adventure
+    - type: Video Game
+      name: "Pokémon: Shield"
+      link: https://www.nintendo.com/us/store/products/pokemon-shield-switch/?srsltid=AfmBOooiYsgU2f1x0SIy5lJ_2NnScP_7dmOvfQpcQHpl7Ghcm-pRFhsI
+- year: 2022
+  categories:
+    - type: Book
+      name: Madeline Miller - The Song of Achilles
+      link: https://madelinemiller.com/the-song-of-achilles/
+    - type: Card Game
+      name: Ligretto
+      link: https://www.999games.nl/product/ligretto-blauw/8720289471033
+    - type: Video Game
+      name: Horizon Forbidden West
+      link: https://www.playstation.com/en-gb/games/horizon-forbidden-west/
+- year: 2021
+  categories:
+    - type: Book
+      name: Andy Weir - The Martian
+      link: https://andyweirauthor.com/#the-martian
+      comment: |
+        This was the first book I ever laughed out loud about when reading.
+    - type: Board Game
+      name: Terraforming Mars
+      link: https://boardgamegeek.com/boardgame/167791/terraforming-mars
+    - type: Video Game
+      name: Horizon Zero Dawn
+      link: https://www.playstation.com/en-gb/games/horizon-zero-dawn/

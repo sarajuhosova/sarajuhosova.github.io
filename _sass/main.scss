@@ -104,3 +104,29 @@ h2 {
 .content {
     flex: auto;
 }
+
+.awards ul {
+    list-style: none;
+}
+
+.awards ul::before {
+    content: attr(data-year);
+    color: $oranje;
+    font-weight: bold;
+    position: absolute;
+    font-family: monospace;
+    font-size: larger;
+}
+
+.awards li {
+    padding-left: 3em;
+}
+
+.awards li .type {
+    font-weight: bold;
+    margin: .5em 0;
+}
+
+.awards li a {
+    padding-left: 2em;
+}
