@@ -15,6 +15,10 @@ body {
     flex: 1 auto;
 }
 
+.mobile {
+    display: none;
+}
+
 a {
     color: $link;
     text-decoration: none;
@@ -89,6 +93,11 @@ h2 {
     padding-top: 1em;
 }
 
+.subtitle {
+    padding-left: 2em;
+    font-style: italic;
+}
+
 .about {
     position: sticky;
     top: $top-padding;
@@ -111,7 +120,7 @@ h2 {
 
 .awards ul::before {
     content: attr(data-year);
-    color: $oranje;
+    color: $highlight;
     font-weight: bold;
     position: absolute;
     font-family: monospace;
@@ -122,11 +131,7 @@ h2 {
     padding-left: 3em;
 }
 
-.awards li .type {
+.awards li .award {
     font-weight: bold;
     margin: .5em 0;
-}
-
-.awards li a {
-    padding-left: 2em;
 }

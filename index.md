@@ -22,6 +22,10 @@ title: Sára Juhošová
 <div id="{{ section.id }}">
     <h2>{{ section.emoji }} {{ section.title }}</h2>
 
+    {% if section.subtitle != nil %}
+      <span class="subtitle">{{ section.subtitle }}</span>
+    {% endif %}
+
     {% include sections/{{ section.id }}.html %}
 </div>
 

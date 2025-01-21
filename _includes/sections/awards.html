@@ -7,8 +7,12 @@
         {% for category in awards.categories %}
 
         <li>
-            <div class="type">{{ category.type }}</div>
-            <a href="{{ category.link }}">{{ category.name }}</a>
+            <p class="award">
+                {{ category.type }}:
+                &emsp;
+                <br class="mobile">
+                <a href="{{ category.link }}">{{ category.name }}</a>
+            </p>
 
             {% if category.comment != nil %}
                 <blockquote><p>{{ category.comment }}</p></blockquote>

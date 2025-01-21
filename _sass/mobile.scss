@@ -3,6 +3,10 @@
         flex-direction: column;
     }
 
+    .mobile {
+        display: block;
+    }
+
     .about .profile {
         max-height: 25vh;
         width: auto;

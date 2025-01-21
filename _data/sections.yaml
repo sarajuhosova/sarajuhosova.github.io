@@ -6,7 +6,9 @@
 #   emoji: 🖋️
 - id: pictures
   title: Pretty Pictures
+  subtitle: by me
   emoji: 📷
 - id: awards
   title: Awards of the Year
+  subtitle: a.k.a. Sára's Favourites
   emoji: 🏆
