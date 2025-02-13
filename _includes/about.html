@@ -1,14 +1,12 @@
 <a href="/"><img class="profile" src="/assets/images/sara.png"></a>
 
-<h1>Sára Juhošová</h1>
+<h1><a href="/" style="color: black;">Sára Juhošová</a></h1>
 
 <!-- Table of Contents -->
 
-<div class="toc">
-    {% for section in site.data.sections %}
-        <a href="{{ site.baseurl }}#{{ section.id }}">{{ section.title }} ▸</a> <br>
-    {% endfor %}
-</div>
+{% if include.toc %}
+    {% include {{ include.toc }} %}
+{% endif %}
 
 <!-- Links to Socials -->
 

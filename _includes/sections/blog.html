@@ -1,0 +1,28 @@
+<div class="blog-grid">
+
+    {% for post in site.posts %}
+
+        <div>
+            <p>
+                {% for category in post.categories %}
+                    {% if category == 'blog' %}
+                        {% continue %}
+                    {% endif %}
+                    <a href="/blog#{{ category }}" class="category">{{ category }}</a>
+                {% endfor %}
+            </p>
+        
+            <h3>{{ post.title }}</h3>
+        
+            <p class="date">{{ post.date | date: "%-d %B %Y" }}</p>
+        
+            <p class="go-to"><a href="{{ post.url }}">Read post ▸</a></p>
+        </div>
+
+    {% endfor %}
+
+    <div class="other">
+        ...or discover the posts <br> <a href="/blog">by category!</a>
+    </div>
+
+</div>

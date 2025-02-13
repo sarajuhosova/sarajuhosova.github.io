@@ -1,0 +1,8 @@
+<div class="toc">
+    {% for category in site.categories %}
+        {% if category[0] == 'blog' %}
+            {% continue %}
+        {% endif %}
+        <a href="/blog#{{ category[0] }}">{{ category[0] }} ▸</a> <br>
+    {% endfor %}
+</div>

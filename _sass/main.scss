@@ -1,5 +1,6 @@
 $top-padding: 2em;
-$oranje: #bd8100;
+$highlight: gray;
+$link: #bd8100;
 
 body {
     font-family: sans-serif;
@@ -15,7 +16,7 @@ body {
 }
 
 a {
-    color: $oranje;
+    color: $link;
     text-decoration: none;
 }
 
@@ -29,7 +30,7 @@ a:hover {
 }
 
 blockquote>p {
-    border-left: 1px solid $oranje;
+    border-left: 1px solid $highlight;
     padding-left: 1em;
 }
 
@@ -48,6 +49,10 @@ blockquote>p {
     color: black;
 }
 
+.date {
+    color: $highlight;
+}
+
 .conf , .authors {
     padding-left: 2em;
 }
@@ -57,14 +62,14 @@ blockquote>p {
 }
 
 .link {
-    border: 1px solid $oranje;
+    border: 1px solid $link;
     border-radius: 4px;
     padding: 0 .5em;
 }
 
 .link:hover {
     color: white;
-    background-color: $oranje;
+    background-color: $link;
 }
 
 .icon {
@@ -82,10 +87,6 @@ h1 {
 
 h2 {
     padding-top: 1em;
-}
-
-h3 {
-    color: $oranje;
 }
 
 .about {

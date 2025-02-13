@@ -1,0 +1,5 @@
+<div class="toc">
+    {% for section in site.data.sections %}
+        <a href="{{ site.baseurl }}#{{ section.id }}">{{ section.title }} ▸</a> <br>
+    {% endfor %}
+</div>
