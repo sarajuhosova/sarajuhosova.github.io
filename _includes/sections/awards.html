@@ -1,23 +1,33 @@
 <div class="awards">
 
+    <p>
+        This is an overview of the things I enjoyed the most each year - it does not correlate with release dates nor with my all-time favourites.
+    </p>
+
     {% for awards in site.data.awards %}
 
-    <ul data-year="{{ awards.year }}">
+    <ul data-year="{{ awards.year }}" class="award-list">
 
         {% for category in awards.categories %}
 
-        <li>
+        <li class="award-item">
             <p class="award">
-                {{ category.type }}:
+                {{ category.type }}
                 &emsp;
                 <br class="mobile">
-                <a href="{{ category.link }}">{{ category.name }}</a>
+                <span class="winner">
+                    <a href="{{ category.link }}">{{ category.name }}</a>
+                    
+                    <span class="stars">
+                        {% capture count %}{{ category.stars | plus: 0 }}{% endcapture %}
+                        {% for i in (1..count) %}★{% endfor %}
+                    </span>
+                </span>
             </p>
 
             {% if category.comment != nil %}
                 <blockquote><p>{{ category.comment }}</p></blockquote>
             {% endif %}
-
         </li>
 
         {% endfor %}

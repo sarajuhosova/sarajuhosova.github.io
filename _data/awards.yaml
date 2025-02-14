@@ -1,45 +1,69 @@
 - year: 2024
   categories:
     - type: Books
-      name: Brandon Sanderson - Secret Projects
+      name: Brandon Sanderson - Secret (Cosmere) Projects
       link: https://www.kickstarter.com/projects/dragonsteel/surprise-four-secret-novels-by-brandon-sanderson
+      stars: 5
+      comment: |
+        <b>Tress and the Emerald Sea:</b> whimsical, adventurous, and just downright enjoyable.
+        <br>
+        <b>The Sunlit Man:</b> quick-paced, unique, and startlingly memorable.
+        <br>
+        <b>Yumi and the Nightmare Painter:</b> cosy, charming, and incredibly creative.
     - type: Board Game
       name: Gaia Project
       link: https://boardgamegeek.com/boardgame/220308/gaia-project
+      stars: 5
+      comment: |
+        What a well-designed game!
     - type: Video Game
       name: "The Witcher 3: Wild Hunt"
       link: https://www.thewitcher.com/us/en/witcher3
+      stars: 4
 - year: 2023
   categories:
     - type: Book Series
       name: Robert Jordan - The Wheel of Time
       link: https://dragonmount.com/Books/index/
+      stars: 4
     - type: Board Game
       name: "Clank!: A Deck-Building Adventure"
       link: https://boardgamegeek.com/boardgame/201808/clank-a-deck-building-adventure
+      stars: 4
+      comment: |
+        Usually, I hate any kind of element of luck in a board game, but the way it's incorporated in Clank! makes me forgive it.
+        The premise of this game is that you are a thief trying to steal treasures from a dragon's lair.
+        Certain actions make you Clank!, generating noise, and making it more likely that the dragon will harm you in its next attack.
+        This game really feels like a video game brought on the table, and it made me love deck-building as a mechanic.
     - type: Video Game
       name: "Pokémon: Shield"
       link: https://www.nintendo.com/us/store/products/pokemon-shield-switch/?srsltid=AfmBOooiYsgU2f1x0SIy5lJ_2NnScP_7dmOvfQpcQHpl7Ghcm-pRFhsI
+      stars: 3
 - year: 2022
   categories:
     - type: Book
       name: Madeline Miller - The Song of Achilles
       link: https://madelinemiller.com/the-song-of-achilles/
+      stars: 4
     - type: Card Game
       name: Ligretto
       link: https://www.999games.nl/product/ligretto-blauw/8720289471033
+      stars: 4
       comment: |
         The one game where we <em>all</em> passionately play to win (trash talking is common).
     - type: Video Game
       name: Horizon Forbidden West
       link: https://www.playstation.com/en-gb/games/horizon-forbidden-west/
+      stars: 5
       comment: |
-        Did not disappoint.
+        Just as great (if not better) than the first one.
+        The art of these games is just breathtaking.
 - year: 2021
   categories:
     - type: Book
       name: Andy Weir - The Martian
       link: https://andyweirauthor.com/#the-martian
+      stars: 5
       comment: |
         This book is probably my all-time favourite.
         I picked it up not knowing what to expect and was positively surprised in every aspect.
@@ -50,9 +74,15 @@
     - type: Board Game
       name: Terraforming Mars
       link: https://boardgamegeek.com/boardgame/167791/terraforming-mars
+      stars: 5
+      comment: |
+        This game has the perfect amount of resource competition - just enough to keep it interesting, but not enough to make you nervous.
+        With great mechanics, ideal playtime, and a cool topic, this is probably our most played game.
+        The only complaint I have about this game is the component quality - and you can fix that by buying the <a href="https://boardgamegeek.com/boardgameexpansion/311247/terraforming-mars-big-box">Terraforming Mars: Big Box</a>.
     - type: Video Game
       name: Horizon Zero Dawn
       link: https://www.playstation.com/en-gb/games/horizon-zero-dawn/
+      stars: 5
       comment: |
-        I did not grow up playing video games and this was the first I ever started, enjoyed, and played through completely.
-        The art is beautiful, the story is captivating, and the gameplay is fun (albeit difficult for someone who does not know how to operate a controller).
+        I did not grow up playing video games, and this was the first I ever started, enjoyed, and played one through completely.
+        The art is beautiful, the story is captivating, and the gameplay is fun (albeit quite difficult for someone who does not know how to operate a controller).

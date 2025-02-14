@@ -69,6 +69,8 @@ blockquote>p {
     border: 1px solid $link;
     border-radius: 4px;
     padding: 0 .5em;
+    display: inline-block;
+    margin-bottom: .3em;
 }
 
 .link:hover {
@@ -114,11 +116,11 @@ h2 {
     flex: auto;
 }
 
-.awards ul {
+.award-list {
     list-style: none;
 }
 
-.awards ul::before {
+.award-list::before {
     content: attr(data-year);
     color: $highlight;
     font-weight: bold;
@@ -127,11 +129,15 @@ h2 {
     font-size: larger;
 }
 
-.awards li {
+.award-item {
     padding-left: 3em;
 }
 
-.awards li .award {
+.award-item .award {
     font-weight: bold;
     margin: .5em 0;
+}
+
+.stars {
+    color: $highlight;
 }
