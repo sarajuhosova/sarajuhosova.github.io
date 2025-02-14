@@ -4,9 +4,9 @@
 - id: projects
   title: My Projects
   emoji: 🛠️
-# - id: blog
-#   title: Personal Blog
-#   emoji: 🖋️
+- id: blog
+  title: Personal Blog
+  emoji: 🖋️
 - id: pictures
   title: Pretty Pictures
   subtitle: by me
