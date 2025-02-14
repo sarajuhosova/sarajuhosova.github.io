@@ -1,9 +1,9 @@
 - id: research
   title: My Research
   emoji: 🧪
-# - id: blog
-#   title: Personal Blog
-#   emoji: 🖋️
+- id: blog
+  title: Personal Blog
+  emoji: 🖋️
 - id: pictures
   title: Pretty Pictures
   emoji: 📷
