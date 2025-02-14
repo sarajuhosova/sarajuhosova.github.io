@@ -1,0 +1,41 @@
+.project-grid {
+    margin: 1em;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-auto-rows: 1fr;
+    gap: 1em;
+}
+
+.project {
+    display: flex;
+    gap: 2em;
+    flex: 1 auto;
+
+    border: 1px solid $highlight;
+    border-radius: 4px;
+    padding: 1em;
+    margin-bottom: 1em;
+}
+
+.project p {
+    color: $highlight;
+}
+
+.project > .logo {
+    width: 25%;
+    display: flex;
+    align-items: center;
+}
+
+.project img {
+    width: 100%;
+}
+
+@media (max-width: 1080px)  {
+
+    .project-grid {
+        grid-template-columns: 1fr;
+        margin: 3em 0;
+    }
+
+}
