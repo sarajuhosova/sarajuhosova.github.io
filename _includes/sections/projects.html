@@ -1,0 +1,18 @@
+<div class="project-grid">
+    {% for project in site.data.projects %}
+
+        <div class="project" id="{{ project.id }}">
+            <div class="logo">
+                <a href="{{ project.image-link }}"><img src="{{ project.image }}" alt="{{ project.title }}"></a>
+            </div>
+            <div>
+                <h3>{{ project.title }}</h3>
+
+                <p class="description">{{ project.description }}</p>
+
+                <p><a href="{{ project.link }}">Check it out ▸</a></p>
+            </div>
+        </div>
+
+    {% endfor %}
+</div>

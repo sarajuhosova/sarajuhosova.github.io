@@ -1,0 +1,35 @@
+.award-list {
+    list-style: none;
+}
+
+.award-list::before {
+    content: attr(data-year);
+    color: $highlight;
+    font-weight: bold;
+    position: absolute;
+    font-family: monospace;
+    font-size: larger;
+}
+
+.award-item {
+    padding-left: 3em;
+}
+
+.award-item .award {
+    font-weight: bold;
+    margin: .5em 0;
+}
+
+.stars {
+    color: $highlight;
+}
+
+@media (max-width: 960px)  {
+
+    .award > .winner {
+        display: block;
+        margin-left: 1em;
+        margin-bottom: 0;
+    }
+
+}

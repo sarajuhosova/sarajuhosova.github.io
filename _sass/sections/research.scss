@@ -1,0 +1,33 @@
+.authors {
+    color: $highlight;
+}
+
+.conf , .authors {
+    padding-left: 2em;
+}
+
+.conf:before {
+    content: '@ ';
+}
+
+.link {
+    border: 1px solid $link;
+    border-radius: 4px;
+    padding: 0 .5em;
+    display: inline-block;
+    margin-bottom: .3em;
+}
+
+.link:hover {
+    color: white;
+    background-color: $link;
+}
+
+@media (max-width: 960px)  {
+    
+    .info {
+        justify-content: center;
+    }
+
+}
+
