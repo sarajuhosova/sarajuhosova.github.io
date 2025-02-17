@@ -2,11 +2,15 @@
   title: GRaffe
   description: A graph definition language
   image: /assets/images/projects/graffe.png
-  image-link: https://www.flaticon.com/free-icon/giraffe_2395826
+  image-source:
+    author: surang
+    link: https://www.flaticon.com/free-icon/giraffe_2395826
   link: https://github.com/sarajuhosova/graffe
 - id: suguru
   title: Suguru
   description: A Jigsaw Sudoku puzzle <br> (a.k.a. Tectonic or Suguru)
   image: /assets/images/projects/suguru.png
-  image-link: https://www.flaticon.com/free-icon/sudoku_3269927
+  image-source:
+    author: Freepik
+    link: https://www.flaticon.com/free-icon/sudoku_3269927
   link: https://sarajuhosova.com/suguru/
