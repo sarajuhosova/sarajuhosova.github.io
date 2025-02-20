@@ -20,7 +20,7 @@
       link: /assets/files/2025-icpc.pdf
     # - title: DOI
     #   link: /
-- title: How Novices Perceive Interactive Theorem Provers
+- title: How Novices Perceive Interactive Theorem Provers (Extended Abstract)
   year: 2024
   abstract: |
     Interactive theorem provers (ITPs) are known to have a steep learning curve and poor usability.
