@@ -1,6 +1,7 @@
 ---
 layout: blog/post
 title: This is a test!
+tags: [test, programming]
 ---
 
 This is a block of code:

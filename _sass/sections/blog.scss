@@ -25,6 +25,17 @@
 }
 
 .category {
+    border: 1px solid $link;
+    border-radius: 4px;
+    padding: 0 .5em;
+
+    background-color: $link;
+    color: white;
+
+    font-size: small;
+}
+
+.tag {
     border: 1px solid $highlight;
     border-radius: 4px;
     padding: 0 .5em;
@@ -33,6 +44,15 @@
     color: white;
 
     font-size: small;
+}
+
+.breadcrumb {
+    color: $highlight;
+    font-size: small;
+}
+
+a.breadcrumb {
+    color: $link;
 }
 
 @media (max-width: 1420px)  {

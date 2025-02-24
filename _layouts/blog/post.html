@@ -12,19 +12,24 @@
       {% include about.html toc="blog/toc.html" %}
     </div>
     <div class="content">
-      <p><a href="/blog">◂ back to all categories</a></p>
-
-      <h1>{{ page.title }}</h1>
-      <span class="date">{{ page.date | date: "%-d %B %Y" }}</span>
+      <p><a href="/blog" class="breadcrumb">◂ back to all categories</a></p>
 
       <p>
         {% for category in page.categories %}
-          {% if category == 'blog' %}
-            {% continue %}
-          {% endif %}
-          <span class="category">{{ category }}</span>
+            {% if category == 'blog' %}
+                {% continue %}
+            {% endif %}
+            <a href="/blog#{{ category }}" class="category">{{ category }}</a>
+        {% endfor %}
+        <span class="breadcrumb">▸</span>
+        {% for tag in page.tags %}
+            <span class="tag">{{ tag }}</span>
         {% endfor %}
       </p>
+
+      <h1>{{ page.title }}</h1>
+
+      <span class="date">{{ page.date | date: "%-d %B %Y" }}</span>
 
       {{ content }}
     </div>
