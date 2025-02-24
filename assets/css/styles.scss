@@ -1,10 +1,12 @@
 ---
 ---
-@import "main";
-@import "mobile";
+@use "main"as *;
+@use "mobile"as *;
 
-@import "sections/awards";
-@import "sections/blog";
-@import "sections/pictures";
-@import "sections/projects";
-@import "sections/research";
+@use "code"as *;
+
+@use "sections/awards"as *;
+@use "sections/blog"as *;
+@use "sections/pictures"as *;
+@use "sections/projects"as *;
+@use "sections/research"as *;
