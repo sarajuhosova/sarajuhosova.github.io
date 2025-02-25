@@ -1,139 +1,38 @@
 ---
 layout: blog/post
-title: This is a test!
-tags: [test, programming]
+title: This is a Test
+tags: [programming, test]
+render_with_liquid: false
 ---
 
 This is a block of code:
 
-```ruby
-def foo
-  puts 'foo'
-end
+```bash
+git commit --amend
 ```
 
-```python
-# this is a comment
-for i in range(5):
-    print(i)
-```
+## Here is More Code
 
-```haskell
-func :: Int -> String
-func 3 = "Hello!"
-func _ = undefined
-```
-
-```js
-/**
- * Does a thing
- */
-function helloWorld(param1, param2) {
-  var something = 0;
-
-  // Do something
-  if (2.0 % 2 == something) {
-    console.log('Hello, world!');
-  } else {
-    return null;
-  }
-
-  // @TODO comment
+```scss
+.breadcrumb {
+    color: $highlight;
+    font-size: small;
 }
-```
 
-```kotlin
-package com.sarajuhosova.graffe.model.graph
+a.breadcrumb {
+    color: $link;
+}
 
-import com.sarajuhosova.graffe.exception.generation.MissingComponentsException
-import com.sarajuhosova.graffe.model.ast.statement.declaration.*
-import com.sarajuhosova.graffe.model.dto.Component
-import com.sarajuhosova.graffe.restrictions.Rule
-
-data class Graph(
-    private val parent: Node?,
-    private val nodes: MutableMap<String, Node> = mutableMapOf(),
-    private val edges: MutableList<Edge> = mutableListOf(),
-    private val restrictions: MutableList<Rule> = mutableListOf()
-) : GRaffe() {
-
-    fun size(): Int = nodes.size
-
-    fun isEmpty(): Boolean = nodes.isEmpty()
-    fun isNotEmpty(): Boolean = !isEmpty()
-
-    operator fun get(name: String): Component? =
-        if (name !in nodes) null else Component(
-            getNode(name)!!,
-            getEdges(name),
-            this
-        )
-
-    fun first(): Node = nodes.values.first()
-
-    fun getParent(): Component? =
-        // TODO: fix the empty list here!!
-        if (parent == null) null else Component(parent, emptyList(), this)
-
-    fun getNode(name: String): Node? = nodes[name]
-    fun getEdges(name: String): List<Edge> =
-        edges.filter { it.connectsNode(name) }
-    fun getEdges(node: Node): List<Edge> = getEdges(node.name)
-
-    fun getDirectedNeighbours(node: Node): List<Node> =
-        edges.filter { it.hasSource(node.name) }.map { nodes[it.relationship.target]!! }
-
-    fun addNode(node: Node) {
-        if (node.name !in nodes) nodes[node.name] = node
-        else nodes[node.name]?.merge(node)
+@media (max-width: 1420px)  {
+    .blog-grid {
+        grid-template-columns: 1fr 1fr;
     }
+}
 
-    fun addEdge(edge: Edge) { edges.add(edge) }
-
-    fun merge(other: Graph?) {
-        if (other == null) return
-
-        // merge the nodes
-        for ((_, node) in other.nodes) addNode(node)
-        // merge the edges
-        edges.addAll(other.edges)
+@media (max-width: 1080px)  {
+    .blog-grid {
+        grid-template-columns: 1fr;
+        margin: 3em 0;
     }
-
-    fun validate() {
-        val missing = mutableListOf<String>()
-        for (edge in edges) {
-            if (edge.relationship.source !in nodes) missing.add(edge.relationship.source)
-            if (edge.relationship.target !in nodes) missing.add(edge.relationship.target)
-        }
-        if (missing.isNotEmpty()) {
-            throw MissingComponentsException(missing)
-        }
-        for (rule in restrictions) rule.validate(this)
-    }
-
-    fun summary(): List<Pair<String, Int>> =
-        nodes.map { it.value.name to getEdges(it.key).size }
-
-    companion object {
-        fun fromDeclarations(declarations: List<GRaffeDeclaration>, parent: Node?): Graph {
-            val result = Graph(parent = parent)
-            for (declaration in declarations) {
-                when (declaration) {
-                    is ComponentDeclaration -> result.addNode(
-                        declaration.generate()
-                    )
-                    is IncludeDeclaration -> TODO()
-                    is RelationshipDeclaration -> result.addEdge(
-                        declaration.generate()
-                    )
-                    is RestrictionDeclaration ->
-                        result.restrictions.add(declaration.rule)
-                }
-            }
-            result.validate()
-            return result
-        }
-    }
-
 }
 ```
