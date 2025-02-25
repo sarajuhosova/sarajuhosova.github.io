@@ -10,6 +10,10 @@ div.highlight, figure.highlight {
     border-radius: 4px;
 }
 
+code.highlighter-rouge {
+    background-color: $main-light;
+}
+
 .highlight .c  { color: $green; font-style: italic } /* Comment */
 .highlight .cm { color: $green; font-style: italic } /* Comment.Multiline */
 .highlight .cp { color: $green } /* Comment.Preproc */

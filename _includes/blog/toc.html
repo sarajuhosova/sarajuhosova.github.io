@@ -1,8 +1,9 @@
 <div class="toc">
+    Discover by category: <br>
     {% for category in site.categories %}
         {% if category[0] == 'blog' %}
             {% continue %}
         {% endif %}
-        <a href="/blog#{{ category[0] }}">{{ category[0] }} ▸</a> <br>
+        <a href="/blog#{{ category[0] }}">{{ category[0] }}</a> <br>
     {% endfor %}
 </div>
