@@ -1,12 +1,12 @@
 ---
 ---
-@use "main"as *;
-@use "mobile"as *;
+@use "main";
+@use "mobile";
 
-@use "code"as *;
+@use "code";
 
-@use "sections/awards"as *;
-@use "sections/blog"as *;
-@use "sections/pictures"as *;
-@use "sections/projects"as *;
-@use "sections/research"as *;
+@use "sections/awards";
+@use "sections/blog";
+@use "sections/pictures";
+@use "sections/projects";
+@use "sections/research";
