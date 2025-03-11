@@ -1,3 +1,17 @@
+- title: Type-Driven Development in Practice
+  year: Current
+  authors:
+    - name: Jesper Cockx
+      link: https://jesper.sikanda.be/
+  abstract: |
+    As part of our research on <b>the usability of interactive theorem provers</b>, we are conducting a study on the usage and state of tools and languages for type-driven development.
+    We are interested in <b>tools that encourage and facilitate type-driven development</b>, especially in cases when they can help us reason about complex problems.
+    <br><br>
+    We are hoping to use your responses to identify the characteristic language features and tool interactions that enable type-driven development, with the eventual goals of enhancing them and bringing their benefits to a wider range of programmers.
+    <br><br>
+    You are welcome to participate if you have experience with <em>any</em> type-driven development tool, including dependently-typed languages (e.g., Coq, Lean, Agda), refinement types (e.g., Liquid Haskell), or even other static type systems (e.g., in Rust or Haskell).
+    <br><br>
+    Fill in our <em>anonymous</em>, 10-minute survey here: <a href="https://tudelft.fra1.qualtrics.com/jfe/form/SV_bIsMxYTKUJkhVuS">https://tudelft.fra1.qualtrics.com/jfe/form/SV_bIsMxYTKUJkhVuS</a>
 - title: Pinpointing the Learning Obstacles of an Interactive Theorem Prover
   year: 2025
   authors:
