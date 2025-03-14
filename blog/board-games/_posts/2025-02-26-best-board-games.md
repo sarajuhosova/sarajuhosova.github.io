@@ -1,6 +1,6 @@
 ---
 layout: blog/post
-title: Best Board Game
+title: Best Board Games
 tags: [recommendations]
 ---
 
