@@ -25,13 +25,13 @@
     Qualitative analysis of the responses revealed confusion among the participants about the role of ITPs within software development processes as well as design choices and tool deficiencies which do not provide an adequate level of support to ITP users.
     To make ITPs more accessible to new users, we recommend that ITP designers look beyond the language itself and also consider its wider contexts of tooling, developer environments, and larger software development processes.
   conferences:
-    - name: ICPC '25
+    - name: ICPC '25 (Distinguished Paper Award)
       link: https://conf.researchr.org/track/icpc-2025/icpc-2025-research
   links:
     - title: Pre-Print
       link: /assets/files/2025-icpc.pdf
-    # - title: DOI
-    #   link: /
+    - title: DOI
+      link: https://doi.org/10.1109/ICPC66645.2025.00024
 - title: How Novices Perceive Interactive Theorem Provers (Extended Abstract)
   year: 2024
   abstract: |
