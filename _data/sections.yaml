@@ -1,9 +1,12 @@
 - id: research
-  title: My Research
+  title: Research
   emoji: 🧪
 - id: projects
-  title: My Projects
+  title: Projects
   emoji: 🛠️
+- id: students
+  title: Students
+  emoji: 🧑‍🎓
 - id: blog
   title: Personal Blog
   emoji: 🖋️

@@ -1,0 +1,18 @@
+@use "color" as *;
+
+.student-entry {
+    margin: 1em 0;
+}
+
+.student-entry > li::marker {
+    content: attr(data-year);
+    color: $highlight;
+    font-weight: bold;
+    font-family: monospace;
+    font-size: larger;
+    padding-right: 1em;
+}
+
+.student-entry > li {
+    padding-left: 1em;
+}

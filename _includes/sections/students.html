@@ -1,0 +1,20 @@
+<div class="students">
+
+    {% for student in site.data.students %}
+
+        {% assign end = "...." %}
+        {%if student.year.end != nil %}
+            {% assign end = student.year.end %}
+        {% endif %}
+
+        <ul class="student-entry">
+
+            <li data-year="{{ student.year.start }}"><b>{{ student.name }}</b></li>
+            <li data-year="{{ end }}"><a href="{{ student.link }}">{{ student.title }}</a></li>
+            <li class="monospace">{{ student.degree }}</li>
+
+        </ul>
+
+    {% endfor %}
+
+</div>

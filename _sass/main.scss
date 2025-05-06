@@ -95,3 +95,10 @@ h2 {
 .content {
     flex: auto;
 }
+
+.monospace {
+    color: $highlight;
+    font-weight: bold;
+    font-family: monospace;
+    font-size: larger;
+}
