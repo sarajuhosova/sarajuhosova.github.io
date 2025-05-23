@@ -41,7 +41,7 @@
     Analysis of the results revealed design choices and tool deficiencies which do not provide an adequate level of support to beginner nor advanced users.
     These observations point to one prominent point of improvement: providing a more accessible and sturdy infrastructure for ITP programmers.
   conferences:
-    - name: ICFP SRC '24
+    - name: ICFP SRC '24 (Second Place)
       link: https://icfp24.sigplan.org/track/icfp-2024-student-research-competition
     - name: TyDe '24
       link: https://icfp24.sigplan.org/home/tyde-2024
