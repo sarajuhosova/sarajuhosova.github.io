@@ -1,19 +1,40 @@
 <div class="students">
 
-    {% for student in site.data.students %}
+    {% for entry in site.data.students %}
 
-        {% assign end = "...." %}
-        {%if student.year.end != nil %}
-            {% assign end = student.year.end %}
+        {% if entry.type == "msc" %}
+
+            {% assign end = "...." %}
+            {% if entry.year.end != nil %}
+                {% assign end = entry.year.end %}
+            {% endif %}
+
+            <ul class="student-entry">
+
+                <li data-year="{{ entry.year.start }}"><b>{{ entry.name }}</b></li>
+                <li data-year="{{ end }}"><a href="{{ entry.link }}">{{ entry.title }}</a></li>
+                <li class="monospace">MSc Thesis</li>
+
+            </ul>
+
+        {% else %}
+
+            <ul class="student-entry">
+
+                <li data-year="{{ entry.year }}"><em>{{ entry.title }}</em></li>
+                {% for student in entry.group %}
+                    {% assign link = "https://pl.ewi.tudelft.nl/education/bachelor-project" %}
+                    {% if student.link != nil %}
+                        {% assign link = student.link %}
+                    {% endif %}
+
+                    <li><b>{{ student.name }}:</b> <a href="{{ link }}">{{ student.title }}</a></li>
+                {% endfor %}
+                <li class="monospace">BSc Theses</li>
+
+            </ul>
+
         {% endif %}
-
-        <ul class="student-entry">
-
-            <li data-year="{{ student.year.start }}"><b>{{ student.name }}</b></li>
-            <li data-year="{{ end }}"><a href="{{ student.link }}">{{ student.title }}</a></li>
-            <li class="monospace">{{ student.degree }}</li>
-
-        </ul>
 
     {% endfor %}
 
