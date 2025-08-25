@@ -5,20 +5,6 @@
   name: Ruben Backx
   title: "A Grounded Theory Study of \"How Interactive Theorem Prover Programmers Write Code\""
   link: https://pl.ewi.tudelft.nl/master-projects/master/2025/04/16/how-we-use-itps/
-- type: bsc
-  year: 2025
-  title: "Property-Based Testing in the Wild!"
-  group:
-    - name: Antonios Barotsis
-      title: "Property-Based Testing in Open-Source Rust Projects"
-    - name: Max Derbenwick
-      title: "Property Based Testing in Rust, How is it Used?"
-    - name: David de Koning
-      title: "Property-Based Testing in Practice using Hypothesis"
-    - name: Harald Toth
-      title: "An Analysis of jqwik Usage in Open-Source Repositories"
-    - name: Ye Zhao
-      title: "Property-Based Testing in Haskell"
 - type: msc
   year:
     start: 2025
@@ -26,6 +12,25 @@
   name: Jim van Vliet
   title: "Automatic Decomposition for Property-Based Testing"
   link: https://pl.ewi.tudelft.nl/master-projects/master/2025/03/01/Jim-van-Vliet/
+- type: bsc
+  year: 2025
+  title: "Property-Based Testing in the Wild!"
+  group:
+    - name: Antonios Barotsis
+      title: "Property-Based Testing in Open-Source Rust Projects"
+      link: https://resolver.tudelft.nl/uuid:82f61962-e0b5-48d2-ada4-4c94aec06b02
+    - name: Max Derbenwick
+      title: "Property Based Testing in Rust, How is it Used?"
+      link: https://resolver.tudelft.nl/uuid:67a66d2d-d5cb-4453-9b72-f243ba3d3aea
+    - name: David de Koning
+      title: "Property-Based Testing in Practice using Hypothesis"
+      link: https://resolver.tudelft.nl/uuid:aa9cc98d-032f-4544-9447-d6e24bb8ebd2
+    - name: Harald Toth
+      title: "Exploring Property-Based Testing in Java"
+      link: https://resolver.tudelft.nl/uuid:e00c77d1-a4e1-4aa2-82e2-0c1c61c2fb02
+    - name: Ye Zhao
+      title: "Property-Based Testing in Haskell"
+      link: https://resolver.tudelft.nl/uuid:0d8644f5-36eb-419b-abd3-65ac117d096d
 - type: msc
   year:
     start: 2024
@@ -39,16 +44,16 @@
   group:
     - name: Charlie Ciaś
       title: "Correct-by-Construction Implementation of Typecheckers"
-      link: https://repository.tudelft.nl/record/uuid:dac74d72-9efa-44c2-b91c-93bb83cc161f
+      link: https://resolver.tudelft.nl/uuid:dac74d72-9efa-44c2-b91c-93bb83cc161f
     - name: Mariusz Kicior
       title: "An Exceptional Type-Checker"
-      link: https://repository.tudelft.nl/record/uuid:10a1fd27-a7fc-427c-904b-2787427e18d3
+      link: https://resolver.tudelft.nl/uuid:10a1fd27-a7fc-427c-904b-2787427e18d3
     - name: Vincent Pikand
       title: "Eliminating bugs in type inference algorithms by describing them with precise types"
-      link: https://repository.tudelft.nl/record/uuid:001da32e-7623-43db-b7dd-2cd54a366b00
+      link: https://resolver.tudelft.nl/uuid:001da32e-7623-43db-b7dd-2cd54a366b00
     - name: Miloš Ristić
       title: "Correct-by-Construction Type-Checking for Algebraic Data Types"
-      link: https://repository.tudelft.nl/record/uuid:91825f78-d97c-47ed-b0f1-7ce498e523d1
+      link: https://resolver.tudelft.nl/uuid:91825f78-d97c-47ed-b0f1-7ce498e523d1
     - name: Vince Szabó
       title: "Correct-by-construction Type Checking for Substructural Type Systems"
-      link: https://repository.tudelft.nl/record/uuid:1cbde118-a1ba-4fbe-a1fa-fa72f2484817
+      link: https://resolver.tudelft.nl/uuid:1cbde118-a1ba-4fbe-a1fa-fa72f2484817
