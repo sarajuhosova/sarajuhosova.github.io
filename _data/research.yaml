@@ -1,6 +1,8 @@
 - title: Type-Driven Development in Practice
   year: Current
   authors:
+    - name: Andy Zaidman
+      link: https://azaidman.github.io/
     - name: Jesper Cockx
       link: https://jesper.sikanda.be/
   abstract: |
