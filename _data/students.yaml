@@ -2,6 +2,13 @@
   year:
     start: 2025
     end:
+  name: Georgi Nihrizov
+  title: "Language Parametric Hole-Driven Development"
+  link: https://pl.ewi.tudelft.nl/master-projects/master/2025/11/11/georgi-nihrizov/
+- type: msc
+  year:
+    start: 2025
+    end:
   name: Ruben Backx
   title: "A Grounded Theory Study of \"How Interactive Theorem Prover Programmers Write Code\""
   link: https://pl.ewi.tudelft.nl/master-projects/master/2025/04/16/how-we-use-itps/
