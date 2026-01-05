@@ -21,15 +21,16 @@
 
         {% endfor %}
 
-        {% if work.links != nil %}
-            <br>
-            
-            {% for link in work.links %}
-
-                <a href="{{ link.link }}" class="link">{{ link.title }}</a>
-
-            {% endfor %}
+        {% if work.conferences != nil %}
+            {% if work.links != nil %}   
+                <br>
+            {% endif %} 
         {% endif %}
 
+        {% for link in work.links %}
+
+            <a href="{{ link.link }}" class="link">{{ link.title }}</a>
+
+        {% endfor %}
     {% endfor %}
 </div>
