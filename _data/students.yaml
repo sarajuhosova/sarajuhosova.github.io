@@ -3,7 +3,7 @@
     start: 2025
     end:
   name: Georgi Nihrizov
-  title: "Language Parametric Hole-Driven Development"
+  title: "Hole-Driven Development for Ownership Types"
   link: https://pl.ewi.tudelft.nl/master-projects/master/2025/11/11/georgi-nihrizov/
 - type: msc
   year:
@@ -17,7 +17,7 @@
     start: 2025
     end:
   name: Jim van Vliet
-  title: "Automatic Decomposition for Property-Based Testing"
+  title: "Generating Property-Based Tests from Unit Tests"
   link: https://pl.ewi.tudelft.nl/master-projects/master/2025/03/01/Jim-van-Vliet/
 - type: bsc
   year: 2025

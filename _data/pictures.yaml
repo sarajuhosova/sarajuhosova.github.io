@@ -1,19 +1,43 @@
-- caption: Cliffs of Moher
-  location: County Clare, Ireland
-  source: 2023-07-15-cliffs-of-moher.jpeg
-  date: 15 July 2023
-- caption: Edinburgh Castle
-  location: Edinburgh, Scotland
-  source: 2024-07-27-edinburgh-castle.jpeg
-  date: 27 July 2024
-- caption: Chata pri Zelenom plese
-  location: Vysoké Tatry, Slovakia
-  source: 2021-07-21-zelene-pleso.jpeg
-  date: 21 July 2021
+- caption: Glenfinnan Viaduct
+  location: Glenfinnan, Scotland
+  source: 2025-07-07-glenfinnan.JPEG
+  date: 07 July 2025
+- caption: Eagle's Nest Lookout
+  location: Calabogie, Canada
+  source: 2025-05-02-eagles-nest.JPEG
+  date: 02 May 2025
 - caption: Dunguaire Castle
   location: Kinvarra, Ireland
   source: 2023-07-15-dunguaire-castle.jpeg
   date: 15 July 2023
+- caption: Puffin!
+  location: Isle of May, Scotland
+  source: 2025-07-11-puffin.JPEG
+  date: 11 July 2025
+- caption: Edinburgh Castle
+  location: Edinburgh, Scotland
+  source: 2024-07-27-edinburgh-castle.jpeg
+  date: 27 July 2024
+- caption: Puffins!
+  location: Isle of May, Scotland
+  source: 2025-07-11-puffins.JPEG
+  date: 11 July 2025
+- caption: Cliffs of Moher
+  location: County Clare, Ireland
+  source: 2023-07-15-cliffs-of-moher.jpeg
+  date: 15 July 2023
+- caption: Chata pri Zelenom plese
+  location: Vysoké Tatry, Slovakia
+  source: 2021-07-21-zelene-pleso.jpeg
+  date: 21 July 2021
+- caption: Old Man of Storr
+  location: Isle of Skye, Scotland
+  source: 2025-07-08-old-man-of-storr.JPEG
+  date: 08 July 2025
+- caption: Paragliders
+  location: Dolomiti, Italy
+  source: 2025-12-25-dolomiti.JPEG
+  date: 25 December 2025
 - caption: Sheep!
   location: Heemskerk, The Netherlands
   source: 2022-12-17-heemskerk.jpeg

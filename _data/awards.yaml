@@ -1,3 +1,21 @@
+- year: 2025
+  categories:
+    - type: Book Series
+      name: Marissa Meyer - Renegades
+      link: https://www.goodreads.com/series/208653-renegades
+      stars: 5
+      comment: |
+        I was scouring the bookstore for something to read during my holiday, and I literally picked up the first book from the series for its cover.
+        It did not disappoint.
+        The rest of the trilogy continued with the same style, and I read through it all in less than a week.
+        It's thrilling, easy read, and perfect for a lazy day.
+    - type: Board Game
+      name: "Slay the Spire: The Board Game"
+      link: https://boardgamegeek.com/boardgame/338960/slay-the-spire-the-board-game
+      stars: 5
+      comment: |
+        This is like playing the encounter parts of PathFinder, but with deck-building.
+        I really enjoy cooperative games, and Slay the Spire has managed to make a great combination of managing your own deck while also making sure that you fit into the team.
 - year: 2024
   categories:
     - type: Books
