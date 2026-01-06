@@ -1,9 +1,9 @@
 - id: research
   title: Research
   emoji: 🧪
-- id: projects
-  title: Projects
-  emoji: 🛠️
+# - id: projects
+#   title: Projects
+#   emoji: 🛠️
 - id: students
   title: Students
   emoji: 🧑‍🎓
@@ -14,7 +14,7 @@
   title: Pretty Pictures
   subtitle: by me
   emoji: 📷
-- id: awards
-  title: Awards of the Year
-  subtitle: a.k.a. Sára's Favourites
-  emoji: 🏆
+# - id: awards
+#   title: Awards of the Year
+#   subtitle: a.k.a. Sára's Favourites
+#   emoji: 🏆

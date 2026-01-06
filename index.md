@@ -30,7 +30,7 @@ title: Sára Juhošová
 
 {% for section in site.data.sections %}
 
-<div id="{{ section.id }}">
+<div class="section" id="{{ section.id }}">
     <h2>{{ section.emoji }} {{ section.title }}</h2>
 
     {% if section.subtitle != nil %}
