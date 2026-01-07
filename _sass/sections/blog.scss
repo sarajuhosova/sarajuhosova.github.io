@@ -12,6 +12,23 @@
     object-fit: contain;
 }
 
+.blog-img {
+    display: block;
+    margin: 2em auto;
+    max-width: 100%;
+    text-align: center;
+}
+
+.blog-img img {
+    margin: 0 auto;
+}
+
+.blog-img p {
+    font-size: small;
+    color: $highlight;
+    margin-top: 1em;
+}
+
 .blog-grid {
     margin: 1em;
     display: grid;
