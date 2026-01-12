@@ -28,9 +28,9 @@
   conferences:
     - name: ICPC '26
       link: https://conf.researchr.org/track/icpc-2026/icpc-2026-research
-  # links:
-  #   - title: Pre-Print
-  #     link: /assets/files/2026-icpc.pdf
+  links:
+    - title: Pre-Print
+      link: /assets/files/2026-icpc.pdf
 - title: Property-Based Testing Across Four Environments in Open-Source Repositories
   year: 2025
   authors:
