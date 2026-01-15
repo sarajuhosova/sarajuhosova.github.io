@@ -1,0 +1,5 @@
+{% if include.link == nil %}
+    <span class="link empty">{{ include.title }}</span>
+{% else %}
+    <a href="{{ include.link }}" class="link">{{ include.title }}</a>
+{% endif %}

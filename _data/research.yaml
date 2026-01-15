@@ -2,6 +2,8 @@
 #   year: Current
 #   authors:
 #     - name: Maria Khakimova
+#     - name: Sára Juhošová
+#       link: https://sarajuhosova.com/
 #     - name: Jaro Reinders
 #       link: https://noughtmare.gitlab.io/
 #     - name: Jesper Cockx
@@ -11,6 +13,8 @@
 - title: "The Way of Types: A Report on Developer Experience with Type-Driven Development"
   year: 2026
   authors:
+    - name: Sára Juhošová
+      link: https://sarajuhosova.com/
     - name: Andy Zaidman
       link: https://azaidman.github.io/
     - name: Jesper Cockx
@@ -31,9 +35,12 @@
   links:
     - title: Pre-Print
       link: /assets/files/2026-icpc.pdf
+    - title: DOI
 - title: Property-Based Testing Across Four Environments in Open-Source Repositories (Short Paper)
   year: 2025
   authors:
+    - name: Sára Juhošová
+      link: https://sarajuhosova.com/
     - name: Harald Toth
     - name: Antonios Barotsis
       link: https://antoniosbarotsis.github.io/
@@ -58,6 +65,8 @@
 - title: Pinpointing the Learning Obstacles of an Interactive Theorem Prover
   year: 2025
   authors:
+    - name: Sára Juhošová
+      link: https://sarajuhosova.com/
     - name: Andy Zaidman
       link: https://azaidman.github.io/
     - name: Jesper Cockx
@@ -79,6 +88,9 @@
       link: https://doi.org/10.1109/ICPC66645.2025.00024
 - title: How Novices Perceive Interactive Theorem Provers (Extended Abstract)
   year: 2024
+  authors:
+    - name: Sára Juhošová
+      link: https://sarajuhosova.com/
   abstract: |
     Interactive theorem provers (ITPs) are known to have a steep learning curve and poor usability.
     This hinders their spread into commercial software development, wasting their potential to improve software quality.
@@ -103,6 +115,9 @@
       link: https://haskell.foundation/podcast/58/
 - title: Bringing Formal Verification into Widespread Programming Language Ecosystems (MSc Thesis)
   year: 2023
+  authors:
+    - name: Sára Juhošová
+      link: https://sarajuhosova.com/
   abstract: |
     Formal verification is a powerful tool for ensuring program correctness but is often hard to learn to use and has not yet spread into the commercial world.
     This thesis focuses on finding an easy-to-use solution to make formal verification available in popular programming language ecosystems.

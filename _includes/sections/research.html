@@ -3,34 +3,34 @@
 
     <h3><span class="date">[{{ work.year }}]</span> {{ work.title }}</h3>
 
-        {% if work.authors != nil %}
-            <p class="authors"> <em>in collaboration with:</em>
-                {% for author in work.authors %}
-        
-                    <a href="{{ author.link }}" class="link">{{ author.name }}</a>
-        
-                {% endfor %}
-            </p>
-        {% endif %}
+    {% if work.authors != nil %}
+        <p class="authors"> <em>authors:</em>
+            {% for author in work.authors %}
 
-        <blockquote><p>{{ work.abstract }}</p></blockquote>
+                {% include links.html link=author.link title=author.name %}
+    
+            {% endfor %}
+        </p>
+    {% endif %}
 
-        {% for conf in work.conferences %}
+    <blockquote><p>{{ work.abstract }}</p></blockquote>
 
-            <a href="{{ conf.link }}" class="conf">{{ conf.name }}</a> <br>
+    {% for conf in work.conferences %}
 
-        {% endfor %}
+        <a href="{{ conf.link }}" class="conf">{{ conf.name }}</a> <br>
 
-        {% if work.conferences != nil %}
-            {% if work.links != nil %}   
-                <br>
-            {% endif %} 
-        {% endif %}
-
-        {% for link in work.links %}
-
-            <a href="{{ link.link }}" class="link">{{ link.title }}</a>
-
-        {% endfor %}
     {% endfor %}
+
+    {% if work.conferences != nil %}
+        {% if work.links != nil %}   
+            <br>
+        {% endif %} 
+    {% endif %}
+
+    {% for link in work.links %}
+
+        {% include links.html link=link.link title=link.title %}
+
+    {% endfor %}
+{% endfor %}
 </div>

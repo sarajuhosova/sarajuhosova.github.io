@@ -18,9 +18,10 @@
     padding: 0 .5em;
     display: inline-block;
     margin-bottom: .3em;
+    color: $link;
 }
 
-.link:hover {
+.link:not(.empty):hover {
     color: white;
     background-color: $link;
 }
@@ -29,6 +30,10 @@
     
     .info {
         justify-content: center;
+    }
+
+    .conf , .authors {
+        padding-left: 0em;
     }
 
 }
