@@ -36,6 +36,7 @@
     - title: Pre-Print
       link: /assets/files/2026-icpc.pdf
     - title: DOI
+      link: https://doi.org/10.1145/3794763.3794812
 - title: Property-Based Testing Across Four Environments in Open-Source Repositories (Short Paper)
   year: 2025
   authors:
