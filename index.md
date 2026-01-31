@@ -14,6 +14,7 @@ title: Sára Juhošová
   * *sporty things:*
       🏃‍♀️ running 
       🚴 cycling 
+      🏊‍♀️ swimming
       🏂 snowboarding 
       ⛸️ ice skating
   * *artsy things:*
