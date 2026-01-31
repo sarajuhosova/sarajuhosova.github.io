@@ -16,6 +16,10 @@ title: Sára Juhošová
       🚴 cycling 
       🏂 snowboarding 
       ⛸️ ice skating
+  * *artsy things:*
+      🎨 [drawing](https://www.instagram.com/sarantja/)
+      📷 [photos](#pictures)
+      🤘 [music](https://open.spotify.com/user/vuyp6at3dk8xr9z9mkxhyj6wa?si=4e34d35614114eb9)
   * *nerdy things:*
       🧙 (fantasy) books
       🎲 [board games](https://boardgamegeek.com/collection/user/sarantja?sort=rank&sortdir=asc&rankobjecttype=subtype&rankobjectid=1&columns=title%7Cthumbnail%7Crank%7Crating%7Cbggrating%7Ccomment%7Ccommands&geekranks=Board%20Game%20Rank&objecttype=thing&ff=1&subtype=boardgame)
@@ -24,9 +28,6 @@ title: Sára Juhošová
       🎅 [advent of code](https://github.com/sarajuhosova/aoc)
   * *unusual things:*
       🍀 irish dance
-  * *artsy things:*
-      📷 [photos](#pictures)
-      🤘 [music](https://open.spotify.com/user/vuyp6at3dk8xr9z9mkxhyj6wa?si=4e34d35614114eb9)
 
 {% for section in site.data.sections %}
 
