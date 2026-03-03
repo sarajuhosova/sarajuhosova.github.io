@@ -2,23 +2,23 @@
   year:
     start: 2025
     end:
+  name: Jim van Vliet
+  title: "Generating Property-Based Tests from Unit Tests"
+  link: https://pl.ewi.tudelft.nl/master-projects/master/2025/03/01/Jim-van-Vliet/
+- type: msc
+  year:
+    start: 2025
+    end:
   name: Georgi Nihrizov
   title: "Hole-Driven Development for Ownership Types"
   link: https://pl.ewi.tudelft.nl/master-projects/master/2025/11/11/georgi-nihrizov/
 - type: msc
   year:
     start: 2025
-    end:
+    end: 2026
   name: Ruben Backx
-  title: "A Grounded Theory Study of \"How Interactive Theorem Prover Programmers Write Code\""
+  title: "A Grounded Theory Study on How Interactive Theorem Prover Programmers Write Code"
   link: https://pl.ewi.tudelft.nl/master-projects/master/2025/04/16/how-we-use-itps/
-- type: msc
-  year:
-    start: 2025
-    end:
-  name: Jim van Vliet
-  title: "Generating Property-Based Tests from Unit Tests"
-  link: https://pl.ewi.tudelft.nl/master-projects/master/2025/03/01/Jim-van-Vliet/
 - type: bsc
   year: 2025
   title: "Property-Based Testing in the Wild!"
