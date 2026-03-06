@@ -8,7 +8,7 @@ title: Sára Juhošová
 * 🇸🇰 I come from Slovakia, a tiny country in Europe with delicious food.
 * 🇳🇱 I've lived in the Netherlands since 2018, when I started my bachelor in Computer Science.
 * 👩‍💻 I enjoy puzzling over all things related to the structure and quality of software projects, <br> from programming languages to software architecture to devops.
-* 🧬 In 2024, I started pursuing a PhD with [Jesper Cockx](https://jesper.sikanda.be/) on [type-driven development](#research).
+* 🧬 In 2024, I started pursuing a PhD with [Jesper Cockx](https://jesper.cx/) on [type-driven development](#research).
 * 🏢 You can usually find me in office 3.E.420 of [Building 28](https://map.tudelftcampus.nl/nl/poi/wiskunde-informatica-ewi/) at the [TU Delft](https://www.tudelft.nl/).
 * 💡 I like
   * *sporty things:*

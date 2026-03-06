@@ -1,5 +1,18 @@
+# - title: A Grounded Theory on the Current State of Dependently Typed Interactive Theorem Proving
+#   year: 2026
+#   authors:
+#     - name: Ruben Backx
+#       link: https://rubenbackx.nl/
+#     - name: Sára Juhošová
+#       link: https://sarajuhosova.com/
+#     - name: Wouter Swierstra
+#       link: https://webspace.science.uu.nl/~swier004/
+#     - name: Jesper Cockx
+#       link: https://jesper.cx/
+#   abstract: |
+#     This is a Grounded Theory study of the current state of dependently typed interactive theorem proving.
 # - title: Enhancing Interactive Theorem Prover Error Messages with Hints
-#   year: Current
+#   year: 2026
 #   authors:
 #     - name: Maria Khakimova
 #     - name: Sára Juhošová
@@ -7,9 +20,16 @@
 #     - name: Jaro Reinders
 #       link: https://noughtmare.gitlab.io/
 #     - name: Jesper Cockx
-#       link: https://jesper.sikanda.be/
+#       link: https://jesper.cx/
 #   abstract: |
-#     Hello!
+#     Interactive theorem provers (ITPs) are promising tools for ensuring program correctness, but users often complain about their poor usability and steep learning curve.
+#     A common complaint, especially among new users, are confusing error messages that expose details of the ITP's underlying theory or implementation details.
+#     In this work, we investigate how adding hints to three types of scope and type checking error messages in the Agda ITP affects the new users' debugging experience.
+#     We evaluate the effectiveness and perceived helpfulness of those error messages by conducting a between-subjects user study where we provide a series of Agda code snippets, each containing a single error that the participants have to fix based on the error message.
+#     We measure the success rate, time taken to fix the error, and perceived helpfulness for each code snippet with the original as well as the enhanced error message and determine the statistical significance of adding the hint.
+#     Our results show that correct hints can improve the success rate and time taken to fix the error, and that error messages with hints are rated significantly more helpful than those without.
+#     Additionally, we find that while error messages with incorrect hints are often rated as more misleading, they do not significantly impact the success rate or time taken to fix the error.
+#     These results show that adding hints to error messages is a viable step on the path towards making ITPs more widely accessible.
 - title: "The Way of Types: A Report on Developer Experience with Type-Driven Development"
   year: 2026
   authors:
@@ -18,7 +38,7 @@
     - name: Andy Zaidman
       link: https://azaidman.github.io/
     - name: Jesper Cockx
-      link: https://jesper.sikanda.be/
+      link: https://jesper.cx/
   abstract: |
     Static type systems are a well-established tool for preventing basic software errors, with more advanced ones providing strong guarantees of program correctness.
     Additionally, type systems encourage a “types first, implementation later” developer workflow known as “type-driven development” (TyDD).
@@ -71,7 +91,7 @@
     - name: Andy Zaidman
       link: https://azaidman.github.io/
     - name: Jesper Cockx
-      link: https://jesper.sikanda.be/
+      link: https://jesper.cx/
   abstract: |
     Interactive theorem provers (ITPs) are programming languages which allow users to reason about and verify their programs.
     Although they promise strong correctness guarantees and expressive type annotations which can act as code summaries, they tend to have a steep learning curve and poor usability.
