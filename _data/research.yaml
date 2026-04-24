@@ -1,16 +1,24 @@
-# - title: A Grounded Theory on the Current State of Dependently Typed Interactive Theorem Proving
-#   year: 2026
-#   authors:
-#     - name: Ruben Backx
-#       link: https://rubenbackx.nl/
-#     - name: Sára Juhošová
-#       link: https://sarajuhosova.com/
-#     - name: Wouter Swierstra
-#       link: https://webspace.science.uu.nl/~swier004/
-#     - name: Jesper Cockx
-#       link: https://jesper.cx/
-#   abstract: |
-#     This is a Grounded Theory study of the current state of dependently typed interactive theorem proving.
+- title: "Programs and Proofs in Practice: A Grounded Theory on How People Use Dependently Typed Interactive Theorem Provers"
+  year: 2026
+  authors:
+    - name: Ruben Backx
+      link: https://rubenbackx.nl/
+    - name: Sára Juhošová
+      link: https://sarajuhosova.com/
+    - name: Wouter Swierstra
+      link: https://webspace.science.uu.nl/~swier004/
+    - name: Jesper Cockx
+      link: https://jesper.cx/
+  abstract: |
+    Dependently typed interactive theorem provers (DTITPs) are powerful tools that help improve software correctness.
+    However, they currently serve niche communities, and have not yet been adopted in mainstream software development processes.
+    Through this work, we aim to understand <em>how people use dependently typed interactive theorem provers</em> to provide a solid, layered understanding of the starting point for any future advancements in DTITP design.
+    We apply the <em>small-scale</em>, <em>emergent-mode</em> Socio-Technical Grounded Theory methodology to develop a theory grounded in data from interviews conducted with DTITP users with varying levels of experience, using Agda, Rocq, and Lean.
+    Our results show how DTITP programmers use types to plan and constrain their programs; make trade-offs in how they represent data; and continuously interact with the compiler to construct a program iteratively.
+    Based on our findings, we have formulated five recommendations for the developers and maintainers of DTITPs who wish to make their work more accessible to a broader audience of software developers.
+  links:
+    - title: Pre-Print
+      link: /assets/files/2026-programs-and-proofs.pdf
 # - title: Enhancing Interactive Theorem Prover Error Messages with Hints
 #   year: 2026
 #   authors:
@@ -43,9 +51,9 @@
     Static type systems are a well-established tool for preventing basic software errors, with more advanced ones providing strong guarantees of program correctness.
     Additionally, type systems encourage a “types first, implementation later” developer workflow known as “type-driven development” (TyDD).
     However, current widespread TyDD practices are based on simple type systems with limited expressivity, and the advanced tools being developed by researchers are not making it into mainstream programming languages.
-    To determine <emph>how current practitioners experience the use of type-driven development</emph> and <emph>what inhibits its adoption by a wider range of developers</emph>,
+    To determine <em>how current practitioners experience the use of type-driven development</em> and <em>what inhibits its adoption by a wider range of developers</em>,
         we conducted a survey with 130 participants from various backgrounds, asking them to describe their experience with current TyDD tools.
-    According to them, TyDD can <emph>guide</emph>, <emph>communicate</emph>, and <emph>verify</emph> program implementation,
+    According to them, TyDD can <em>guide</em>, <em>communicate</em>, and <em>verify</em> program implementation,
         but is currently limited by usability issues and missing features.
     Based on these results, we recommend that advanced TyDD tools be made available to a wider range of developers by investigating and addressing these limitations,
         with a focus on increasing expressivity while preserving usability.
