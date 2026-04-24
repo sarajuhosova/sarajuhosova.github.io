@@ -119,9 +119,6 @@
       link: https://doi.org/10.1109/ICPC66645.2025.00024
 - title: How Novices Perceive Interactive Theorem Provers (Extended Abstract)
   year: 2024
-  authors:
-    - name: Sára Juhošová
-      link: https://sarajuhosova.com/
   abstract: |
     Interactive theorem provers (ITPs) are known to have a steep learning curve and poor usability.
     This hinders their spread into commercial software development, wasting their potential to improve software quality.
@@ -146,9 +143,6 @@
       link: https://haskell.foundation/podcast/58/
 - title: Bringing Formal Verification into Widespread Programming Language Ecosystems (MSc Thesis)
   year: 2023
-  authors:
-    - name: Sára Juhošová
-      link: https://sarajuhosova.com/
   abstract: |
     Formal verification is a powerful tool for ensuring program correctness but is often hard to learn to use and has not yet spread into the commercial world.
     This thesis focuses on finding an easy-to-use solution to make formal verification available in popular programming language ecosystems.
