@@ -19,25 +19,31 @@
   links:
     - title: Pre-Print
       link: /assets/files/2026-programs-and-proofs.pdf
-# - title: Enhancing Interactive Theorem Prover Error Messages with Hints
-#   year: 2026
-#   authors:
-#     - name: Maria Khakimova
-#     - name: Sára Juhošová
-#       link: https://sarajuhosova.com/
-#     - name: Jaro Reinders
-#       link: https://noughtmare.gitlab.io/
-#     - name: Jesper Cockx
-#       link: https://jesper.cx/
-#   abstract: |
-#     Interactive theorem provers (ITPs) are promising tools for ensuring program correctness, but users often complain about their poor usability and steep learning curve.
-#     A common complaint, especially among new users, are confusing error messages that expose details of the ITP's underlying theory or implementation details.
-#     In this work, we investigate how adding hints to three types of scope and type checking error messages in the Agda ITP affects the new users' debugging experience.
-#     We evaluate the effectiveness and perceived helpfulness of those error messages by conducting a between-subjects user study where we provide a series of Agda code snippets, each containing a single error that the participants have to fix based on the error message.
-#     We measure the success rate, time taken to fix the error, and perceived helpfulness for each code snippet with the original as well as the enhanced error message and determine the statistical significance of adding the hint.
-#     Our results show that correct hints can improve the success rate and time taken to fix the error, and that error messages with hints are rated significantly more helpful than those without.
-#     Additionally, we find that while error messages with incorrect hints are often rated as more misleading, they do not significantly impact the success rate or time taken to fix the error.
-#     These results show that adding hints to error messages is a viable step on the path towards making ITPs more widely accessible.
+- title: Enhancing Interactive Theorem Prover Error Messages with Hints
+  year: 2026
+  authors:
+    - name: Maria Khakimova
+    - name: Sára Juhošová
+      link: https://sarajuhosova.com/
+    - name: Jaro Reinders
+      link: https://noughtmare.gitlab.io/
+    - name: Jesper Cockx
+      link: https://jesper.cx/
+  abstract: |
+    Interactive theorem provers (ITPs) are promising tools for ensuring program correctness, but users often complain about their poor usability and steep learning curve.
+    A common complaint, especially among new users, are confusing error messages that expose details of the ITP's underlying theory or implementation details.
+    In this work, we investigate how adding hints to three types of scope and type checking error messages in the Agda ITP affects the new users' debugging experience.
+    We evaluate the effectiveness and perceived helpfulness of those error messages by conducting a between-subjects user study where we provide a series of Agda code snippets, each containing a single error that the participants have to fix based on the error message.
+    We measure the success rate, time taken to fix the error, and perceived helpfulness for each code snippet with the original as well as the enhanced error message and determine the statistical significance of adding the hint.
+    Our results show that correct hints can improve the success rate and time taken to fix the error, and that error messages with hints are rated significantly more helpful than those without.
+    Additionally, we find that while error messages with incorrect hints are often rated as more misleading, they do not significantly impact the success rate or time taken to fix the error.
+    These results show that adding hints to error messages is a viable step on the path towards making ITPs more widely accessible.
+  conferences:
+    - name: ITP '26
+      link: https://itp-conference-2026.github.io/index.html
+  links:
+    - title: Pre-Print
+      link: /assets/files/2026-itp.pdf
 - title: "The Way of Types: A Report on Developer Experience with Type-Driven Development"
   year: 2026
   authors:
