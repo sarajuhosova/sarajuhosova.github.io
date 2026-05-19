@@ -42,7 +42,7 @@
     - name: ITP '26
       link: https://itp-conference-2026.github.io/index.html
   links:
-    - title: Pre-Print
+    - title: Manuscript
       link: /assets/files/2026-itp.pdf
 - title: "The Way of Types: A Report on Developer Experience with Type-Driven Development"
   year: 2026
