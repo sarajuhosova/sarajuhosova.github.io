@@ -26,7 +26,6 @@
     - name: Sára Juhošová
       link: https://sarajuhosova.com/
     - name: Jaro Reinders
-      link: https://noughtmare.gitlab.io/
     - name: Jesper Cockx
       link: https://jesper.cx/
   abstract: |
@@ -44,6 +43,10 @@
   links:
     - title: Manuscript
       link: /assets/files/2026-itp.pdf
+    - title: DOI
+      link: https://doi.org/10.4230/LIPIcs.ITP.2026.6
+    - title: Dataset
+      link: https://doi.org/10.4121/10425039-1e9c-46d2-80c9-a2805c1b7e62
 - title: "The Way of Types: A Report on Developer Experience with Type-Driven Development"
   year: 2026
   authors:
