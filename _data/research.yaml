@@ -16,6 +16,9 @@
     We apply the <em>small-scale</em>, <em>emergent-mode</em> Socio-Technical Grounded Theory methodology to develop a theory grounded in data from interviews conducted with DTITP users with varying levels of experience, using Agda, Rocq, and Lean.
     Our results show how DTITP programmers use types to plan and constrain their programs; make trade-offs in how they represent data; and continuously interact with the compiler to construct a program iteratively.
     Based on our findings, we have formulated five recommendations for the developers and maintainers of DTITPs who wish to make their work more accessible to a broader audience of software developers.
+  conferences:
+    - name: TyDe '26
+      link: https://tydeworkshop.org/2026
   links:
     - title: Pre-Print
       link: /assets/files/2026-programs-and-proofs.pdf
@@ -44,7 +47,7 @@
     - title: Manuscript
       link: /assets/files/2026-itp.pdf
     - title: DOI
-      link: https://doi.org/10.4230/LIPIcs.ITP.2026.6
+      link: https://doi.org/10.4230/LIPIcs.ITP.2026.5
     - title: Dataset
       link: https://doi.org/10.4121/10425039-1e9c-46d2-80c9-a2805c1b7e62
 - title: "The Way of Types: A Report on Developer Experience with Type-Driven Development"
