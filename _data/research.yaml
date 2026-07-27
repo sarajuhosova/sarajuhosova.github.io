@@ -21,7 +21,9 @@
       link: https://tydeworkshop.org/2026
   links:
     - title: Pre-Print
-      link: /assets/files/2026-programs-and-proofs.pdf
+      link: /assets/files/2026-tyde.pdf
+    - title: Dataset
+      link: https://doi.org/10.4121/1ea19b98-3007-4f36-8216-e05e36c3d1db
 - title: Enhancing Interactive Theorem Prover Error Messages with Hints
   year: 2026
   authors:
