@@ -1,4 +1,4 @@
-- title: "Programs and Proofs in Practice: A Grounded Theory on How People Use Dependently Typed Interactive Theorem Provers"
+- title: "Programs and Proofs in Practice: A Grounded Theory on How People Program with Dependent Types"
   year: 2026
   authors:
     - name: Ruben Backx
@@ -10,12 +10,12 @@
     - name: Jesper Cockx
       link: https://jesper.cx/
   abstract: |
-    Dependently typed interactive theorem provers (DTITPs) are powerful tools that help improve software correctness.
+    Dependently typed programming languages (DTPLs) are powerful tools that help improve software correctness.
     However, they currently serve niche communities, and have not yet been adopted in mainstream software development processes.
-    Through this work, we aim to understand <em>how people use dependently typed interactive theorem provers</em> to provide a solid, layered understanding of the starting point for any future advancements in DTITP design.
-    We apply the <em>small-scale</em>, <em>emergent-mode</em> Socio-Technical Grounded Theory methodology to develop a theory grounded in data from interviews conducted with DTITP users with varying levels of experience, using Agda, Rocq, and Lean.
-    Our results show how DTITP programmers use types to plan and constrain their programs; make trade-offs in how they represent data; and continuously interact with the compiler to construct a program iteratively.
-    Based on our findings, we have formulated five recommendations for the developers and maintainers of DTITPs who wish to make their work more accessible to a broader audience of software developers.
+    Through this work, we aim to understand <em>how people program in dependently typed languages</em> to provide a solid, layered understanding of the starting point for any future advancements in DTPL design.
+    We apply the <em>small-scale</em>, <em>emergent-mode</em> Socio-Technical Grounded Theory methodology to develop a theory grounded in data from interviews conducted with DTPL users with varying levels of experience, using Agda, Rocq, and Lean.
+    Our results show how DTPL programmers use types to plan and constrain their programs; make trade-offs in how they represent data; and continuously interact with the compiler to construct a program iteratively.
+    Based on our findings, we have formulated five recommendations for the developers and maintainers of DTPLs who wish to make their work more accessible to a broader audience of software developers.
   conferences:
     - name: TyDe '26
       link: https://tydeworkshop.org/2026
