@@ -1,0 +1,19 @@
+---
+layout: home
+title: Sára's Library
+---
+
+<h1>Sára's Library</h1>
+
+{{ site.data.books.library | size }} books in the library.
+
+<!-- {{ site.data.books.library | jsonify }} -->
+
+<table class="books">
+    {% for book in site.data.books.library %}
+    <tr>
+        <td>{{ book.title }}</td>
+        <td>{{ book.authors }}</td>
+    </tr>
+    {% endfor %}
+</table>

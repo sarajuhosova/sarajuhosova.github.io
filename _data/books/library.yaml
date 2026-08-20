@@ -1,0 +1,2385 @@
+- title: "The Eye of the World"
+  authors:
+    - "Robert Jordan"
+  series:
+    name: "The Wheel of Time"
+    number: 1
+  metadata:
+    genres:
+      - "High Fantasy"
+    language: en
+- title: "The Dragon Reborn"
+  authors:
+    - "Robert Jordan"
+  series:
+    name: "The Wheel of Time"
+    number: 3
+  metadata:
+    genres:
+      - "High Fantasy"
+    language: en
+- title: "The Great Hunt"
+  authors:
+    - "Robert Jordan"
+  series:
+    name: "The Wheel of Time"
+    number: 2
+  metadata:
+    genres:
+      - "High Fantasy"
+    language: en
+- title: "The Shadow Rising"
+  authors:
+    - "Robert Jordan"
+  series:
+    name: "The Wheel of Time"
+    number: 4
+  metadata:
+    genres:
+      - "High Fantasy"
+    language: en
+- title: "The Fires of Heaven"
+  authors:
+    - "Robert Jordan"
+  series:
+    name: "The Wheel of Time"
+    number: 5
+  metadata:
+    genres:
+      - "High Fantasy"
+    language: en
+- title: "Lord of Chaos"
+  authors:
+    - "Robert Jordan"
+  series:
+    name: "The Wheel of Time"
+    number: 6
+  metadata:
+    genres:
+      - "High Fantasy"
+    language: en
+- title: "A Crown of Swords"
+  authors:
+    - "Robert Jordan"
+  series:
+    name: "The Wheel of Time"
+    number: 7
+  metadata:
+    genres:
+      - "High Fantasy"
+    language: en
+- title: "The Path of Daggers"
+  authors:
+    - "Robert Jordan"
+  series:
+    name: "The Wheel of Time"
+    number: 8
+  metadata:
+    genres:
+      - "High Fantasy"
+    language: en
+- title: "Winter's Heart"
+  authors:
+    - "Robert Jordan"
+  series:
+    name: "The Wheel of Time"
+    number: 9
+  metadata:
+    genres:
+      - "High Fantasy"
+    language: en
+- title: "Crossroads of Twilight"
+  authors:
+    - "Robert Jordan"
+  series:
+    name: "The Wheel of Time"
+    number: 10
+  metadata:
+    genres:
+      - "High Fantasy"
+    language: en
+- title: "Knife of Dreams"
+  authors:
+    - "Robert Jordan"
+  series:
+    name: "The Wheel of Time"
+    number: 11
+  metadata:
+    genres:
+      - "High Fantasy"
+    language: en
+- title: "The Gathering Storm"
+  authors:
+    - "Brandon Sanderson"
+    - "Robert Jordan"
+  series:
+    name: "The Wheel of Time"
+    number: 12
+  metadata:
+    genres:
+      - "High Fantasy"
+    language: en
+- title: "Towers of Midnight"
+  authors:
+    - "Brandon Sanderson"
+    - "Robert Jordan"
+  series:
+    name: "The Wheel of Time"
+    number: 13
+  metadata:
+    genres:
+      - "High Fantasy"
+    language: en
+- title: "A Memory of Light"
+  authors:
+    - "Brandon Sanderson"
+    - "Robert Jordan"
+  series:
+    name: "The Wheel of Time"
+    number: 14
+  metadata:
+    genres:
+      - "High Fantasy"
+    language: en
+- title: "New Spring"
+  authors:
+    - "Robert Jordan"
+  metadata:
+    genres:
+      - "High Fantasy"
+    language: en
+  comment: |
+    prequel
+- title: "Warbreaker"
+  authors:
+    - "Brandon Sanderson"
+  universe: Cosmere
+  metadata:
+    genres:
+      - "High Fantasy"
+    language: en
+- title: "Elantris"
+  authors:
+    - "Brandon Sanderson"
+  universe: Cosmere
+  metadata:
+    genres:
+      - "High Fantasy"
+    language: en
+- title: "The Final Empire"
+  authors:
+    - "Brandon Sanderson"
+  series:
+    name: "The Mistborn Saga"
+    number: 1
+  universe: Cosmere
+  metadata:
+    genres:
+      - "High Fantasy"
+    language: en
+- title: "The Well of Ascension"
+  authors:
+    - "Brandon Sanderson"
+  series:
+    name: "The Mistborn Saga"
+    number: 2
+  universe: Cosmere
+  metadata:
+    genres:
+      - "High Fantasy"
+    language: en
+- title: "The Hero of Ages"
+  authors:
+    - "Brandon Sanderson"
+  series:
+    name: "The Mistborn Saga"
+    number: 3
+  universe: Cosmere
+  metadata:
+    genres:
+      - "High Fantasy"
+    language: en
+- title: "The Alloy of Law"
+  authors:
+    - "Brandon Sanderson"
+  series:
+    name: "The Wax & Wayne Series"
+    number: 1
+  universe: Cosmere
+  metadata:
+    genres:
+      - "High Fantasy"
+    language: en
+- title: "Shadow of Self"
+  authors:
+    - "Brandon Sanderson"
+  series:
+    name: "The Wax & Wayne Series"
+    number: 2
+  universe: Cosmere
+  metadata:
+    genres:
+      - "High Fantasy"
+    language: en
+- title: "The Lost Metal"
+  authors:
+    - "Brandon Sanderson"
+  series:
+    name: "The Wax & Wayne Series"
+    number: 4
+  universe: Cosmere
+  metadata:
+    genres:
+      - "High Fantasy"
+    language: en
+- title: "The Bands of Mourning"
+  authors:
+    - "Brandon Sanderson"
+  series:
+    name: "The Wax & Wayne Series"
+    number: 3
+  universe: Cosmere
+  metadata:
+    genres:
+      - "High Fantasy"
+    language: en
+- title: "The Way of Kings"
+  authors:
+    - "Brandon Sanderson"
+  series:
+    name: "The Stormlight Archive"
+    number: 1
+  universe: Cosmere
+  metadata:
+    genres:
+      - "High Fantasy"
+    language: en
+- title: "Edgedancer"
+  authors:
+    - "Brandon Sanderson"
+  series:
+    name: "The Stormlight Archive"
+    number: 2.5
+  universe: Cosmere
+  metadata:
+    genres:
+      - "High Fantasy"
+    language: en
+- title: "Dawnshard"
+  authors:
+    - "Brandon Sanderson"
+  series:
+    name: "The Stormlight Archive"
+    number: 3.5
+  universe: Cosmere
+  metadata:
+    genres:
+      - "High Fantasy"
+    language: en
+- title: "Rhythm of War"
+  authors:
+    - "Brandon Sanderson"
+  series:
+    name: "The Stormlight Archive"
+    number: 4
+  universe: Cosmere
+  metadata:
+    genres:
+      - "High Fantasy"
+    language: en
+- title: "Oathbringer"
+  authors:
+    - "Brandon Sanderson"
+  series:
+    name: "The Stormlight Archive"
+    number: 3
+  universe: Cosmere
+  metadata:
+    genres:
+      - "High Fantasy"
+    language: en
+- title: "Words of Radiance"
+  authors:
+    - "Brandon Sanderson"
+  series:
+    name: "The Stormlight Archive"
+    number: 2
+  universe: Cosmere
+  metadata:
+    genres:
+      - "High Fantasy"
+    language: en
+- title: "The Priory of the Orange Tree"
+  authors:
+    - "Samantha Shannon"
+  series:
+    name: "The Roots of Chaos"
+    number: 1
+  metadata:
+    genres:
+      - "High Fantasy"
+    language: en
+- title: "Eragon"
+  authors:
+    - "Cristopher Paolini"
+  series:
+    name: "The Inheritance Cycle"
+    number: 1
+  universe: Alagaësia
+  metadata:
+    genres:
+      - "High Fantasy"
+    language: en
+- title: "Eldest"
+  authors:
+    - "Cristopher Paolini"
+  series:
+    name: "The Inheritance Cycle"
+    number: 2
+  universe: Alagaësia
+  metadata:
+    genres:
+      - "High Fantasy"
+    language: en
+- title: "Brisingr"
+  authors:
+    - "Cristopher Paolini"
+  series:
+    name: "The Inheritance Cycle"
+    number: 3
+  universe: Alagaësia
+  metadata:
+    genres:
+      - "High Fantasy"
+    language: en
+- title: "Inheritance"
+  authors:
+    - "Cristopher Paolini"
+  series:
+    name: "The Inheritance Cycle"
+    number: 4
+  universe: Alagaësia
+  metadata:
+    genres:
+      - "High Fantasy"
+    language: en
+- title: "The Fork, the Witch, and the Worm"
+  authors:
+    - "Cristopher Paolini"
+  universe: Alagaësia
+  metadata:
+    genres:
+      - "High Fantasy"
+    language: en
+  comment: |
+    short stories sequel
+- title: "Dreamsongs: Book 1"
+  authors:
+    - "George R.R. Martin"
+  series:
+    name: "Dreamsongs"
+    number: 1
+  metadata:
+    genres:
+      - "Collection"
+      - "High Fantasy"
+    language: en
+- title: "Dreamsongs: Book 2"
+  authors:
+    - "George R.R. Martin"
+  series:
+    name: "Dreamsongs"
+    number: 2
+  metadata:
+    genres:
+      - "Collection"
+      - "High Fantasy"
+    language: en
+- title: "The Supernaturalist"
+  authors:
+    - "Eoin Colfer"
+  metadata:
+    genres:
+      - "Science Fiction"
+    language: en
+- title: "Fire and Blood"
+  authors:
+    - "George R.R. Martin"
+  metadata:
+    genres:
+      - "High Fantasy"
+    language: en
+  comment: |
+    chronicles of Aegon the Conqueror and the Dance of Dragons
+- title: "A Game of Thrones"
+  authors:
+    - "George R.R. Martin"
+  series:
+    name: "A Song of Ice and Fire"
+    number: 1
+  metadata:
+    genres:
+      - "High Fantasy"
+    language: en
+- title: "A Clash of Kings"
+  authors:
+    - "George R.R. Martin"
+  series:
+    name: "A Song of Ice and Fire"
+    number: 2
+  metadata:
+    genres:
+      - "High Fantasy"
+    language: en
+- title: "A Storm of Swords"
+  authors:
+    - "George R.R. Martin"
+  series:
+    name: "A Song of Ice and Fire"
+    number: 3
+  metadata:
+    genres:
+      - "High Fantasy"
+    language: en
+- title: "A Feast for Crows"
+  authors:
+    - "George R.R. Martin"
+  series:
+    name: "A Song of Ice and Fire"
+    number: 4
+  metadata:
+    genres:
+      - "High Fantasy"
+    language: en
+- title: "A Dance with Dragons"
+  authors:
+    - "George R.R. Martin"
+  series:
+    name: "A Song of Ice and Fire"
+    number: 5
+  metadata:
+    genres:
+      - "High Fantasy"
+    language: en
+- title: "Wild Cards"
+  authors:
+    - "George R.R. Martin"
+  metadata:
+    genres:
+      - "Collection"
+      - "High Fantasy"
+    language: en
+- title: "The Fifth Season"
+  authors:
+    - "N. K. Jemisin"
+  series:
+    name: "The Broken Earth"
+    number: 1
+  metadata:
+    genres:
+      - "Fantasy"
+      - "Science Fiction"
+    language: en
+- title: "The Obelisk Gate"
+  authors:
+    - "N. K. Jemisin"
+  series:
+    name: "The Broken Earth"
+    number: 2
+  metadata:
+    genres:
+      - "Fantasy"
+      - "Science Fiction"
+    language: en
+- title: "The Stone Sky"
+  authors:
+    - "N. K. Jemisin"
+  series:
+    name: "The Broken Earth"
+    number: 3
+  metadata:
+    genres:
+      - "Fantasy"
+      - "Science Fiction"
+    language: en
+- title: "The Poppy War"
+  authors:
+    - "R. F. Kuang"
+  series:
+    name: "The Poppy War"
+    number: 1
+  metadata:
+    genres:
+      - "High Fantasy"
+    language: en
+- title: "The Dragon Republic"
+  authors:
+    - "R. F. Kuang"
+  series:
+    name: "The Poppy War"
+    number: 2
+  metadata:
+    genres:
+      - "High Fantasy"
+    language: en
+- title: "The Burning God"
+  authors:
+    - "R. F. Kuang"
+  series:
+    name: "The Poppy War"
+    number: 3
+  metadata:
+    genres:
+      - "High Fantasy"
+    language: en
+- title: "The Serpent Bride"
+  authors:
+    - "Sara Douglass"
+  metadata:
+    language: en
+- title: "Shadow and Bone"
+  authors:
+    - "Leigh Bardugo"
+  series:
+    name: "Shadow and Bone"
+    number: 1
+  universe: Grishaverse
+  metadata:
+    genres:
+      - "High Fantasy"
+    language: en
+- title: "Siege and Storm"
+  authors:
+    - "Leigh Bardugo"
+  series:
+    name: "Shadow and Bone"
+    number: 2
+  universe: Grishaverse
+  metadata:
+    genres:
+      - "High Fantasy"
+    language: en
+- title: "Ruin and Rising"
+  authors:
+    - "Leigh Bardugo"
+  series:
+    name: "Shadow and Bone"
+    number: 3
+  universe: Grishaverse
+  metadata:
+    genres:
+      - "High Fantasy"
+    language: en
+- title: "Six of Crows"
+  authors:
+    - "Leigh Bardugo"
+  series:
+    name: "Six of Crows"
+    number: 1
+  universe: Grishaverse
+  metadata:
+    genres:
+      - "High Fantasy"
+    language: en
+- title: "Crooked Kingdom"
+  authors:
+    - "Leigh Bardugo"
+  series:
+    name: "Six of Crows"
+    number: 2
+  universe: Grishaverse
+  metadata:
+    genres:
+      - "High Fantasy"
+    language: en
+- title: "King of Scars"
+  authors:
+    - "Leigh Bardugo"
+  series:
+    name: "King of Scars"
+    number: 1
+  universe: Grishaverse
+  metadata:
+    genres:
+      - "High Fantasy"
+    language: en
+- title: "Rule of Wolves"
+  authors:
+    - "Leigh Bardugo"
+  series:
+    name: "King of Scars"
+    number: 2
+  universe: Grishaverse
+  metadata:
+    genres:
+      - "High Fantasy"
+    language: en
+- title: "The Lives of Saints"
+  authors:
+    - "Leigh Bardugo"
+  universe: Grishaverse
+  metadata:
+    genres:
+      - "High Fantasy"
+    language: en
+  comment: |
+    replica of a book appearing in the Shadow and Bone trilogy
+- title: "The Language of Thorns: Midnight Tales and Dangerous Magic"
+  authors:
+    - "Leigh Bardugo"
+  universe: Grishaverse
+  metadata:
+    genres:
+      - "Collection"
+      - "High Fantasy"
+    language: en
+  comment: |
+    collection of six stories
+- title: "The Last Wish"
+  authors:
+    - "Andrzej Sapkowski"
+  metadata:
+    genres:
+      - "High Fantasy"
+    language: en
+  comment: |
+    collection of short prequel stories (read first)
+- title: "Sword of Destiny"
+  authors:
+    - "Andrzej Sapkowski"
+  metadata:
+    genres:
+      - "High Fantasy"
+    language: en
+  comment: |
+    collection of short prequel stories (read second)
+- title: "Blood of Elves"
+  authors:
+    - "Andrzej Sapkowski"
+  series:
+    name: "The Witcher"
+    number: 1
+  metadata:
+    genres:
+      - "High Fantasy"
+    language: en
+- title: "Time of Contempt"
+  authors:
+    - "Andrzej Sapkowski"
+  series:
+    name: "The Witcher"
+    number: 2
+  metadata:
+    genres:
+      - "High Fantasy"
+    language: en
+- title: "Baptism of Fire"
+  authors:
+    - "Andrzej Sapkowski"
+  series:
+    name: "The Witcher"
+    number: 3
+  metadata:
+    genres:
+      - "High Fantasy"
+    language: en
+- title: "The Tower of the Swallow"
+  authors:
+    - "Andrzej Sapkowski"
+  series:
+    name: "The Witcher"
+    number: 4
+  metadata:
+    genres:
+      - "High Fantasy"
+    language: en
+- title: "The Lady of the Lake"
+  authors:
+    - "Andrzej Sapkowski"
+  series:
+    name: "The Witcher"
+    number: 5
+  metadata:
+    genres:
+      - "High Fantasy"
+    language: en
+- title: "Season of Storms"
+  authors:
+    - "Andrzej Sapkowski"
+  metadata:
+    genres:
+      - "High Fantasy"
+    language: en
+  comment: |
+    prequel (read after main series)
+- title: "The Art of Horizon Zero Dawn"
+  series:
+    name: "Horizon Artbooks"
+    number: 1
+  metadata:
+    genres:
+      - "Artbook"
+    format: hardcover
+    language: en
+- title: "The Iliad"
+  authors:
+    - "Homer"
+  metadata:
+    genres:
+      - "Greek Mythology"
+    language: en
+- title: "Mythos"
+  authors:
+    - "Stephen Fry"
+  series:
+    name: "Great Mythology"
+    number: 1
+  metadata:
+    genres:
+      - "Greek Mythology"
+    language: en
+- title: "Heroes"
+  authors:
+    - "Stephen Fry"
+  series:
+    name: "Great Mythology"
+    number: 2
+  metadata:
+    genres:
+      - "Greek Mythology"
+    language: en
+- title: "Troy"
+  authors:
+    - "Stephen Fry"
+  series:
+    name: "Great Mythology"
+    number: 3
+  metadata:
+    genres:
+      - "Greek Mythology"
+    language: en
+- title: "North Men: The Viking Saga"
+  authors:
+    - "John Haywood"
+  metadata:
+    genres:
+      - "History"
+      - "Norse Mythology"
+    language: en
+- title: "Norse Mythology"
+  authors:
+    - "Neil Gaiman"
+  metadata:
+    genres:
+      - "Norse Mythology"
+    language: en
+- title: "Piranesi"
+  authors:
+    - "Susanna Clarke"
+  metadata:
+    genres:
+      - "Fantasy"
+    language: en
+- title: "Circe"
+  authors:
+    - "Madeline Miller"
+  metadata:
+    genres:
+      - "Greek Mythology"
+    language: en
+- title: "A Song of Achilles"
+  authors:
+    - "Madeline Miller"
+  metadata:
+    genres:
+      - "Greek Mythology"
+    language: en
+- title: "The Handmaid’s Tail"
+  authors:
+    - "Margaret Atwood"
+  universe: Republic of Gilead
+  metadata:
+    genres:
+      - "Fantasy"
+    language: en
+- title: "The Testaments"
+  authors:
+    - "Margaret Atwood"
+  universe: Republic of Gilead
+  metadata:
+    genres:
+      - "Collection"
+      - "Fantasy"
+    language: en
+- title: "Harry Potter and the Philosopher’s Stone"
+  authors:
+    - "J. K. Rowling"
+  series:
+    name: "Harry Potter"
+    number: 1
+  metadata:
+    genres:
+      - "Fantasy"
+    language: en
+- title: "Harry Potter and the Chamber of Secrets"
+  authors:
+    - "J. K. Rowling"
+  series:
+    name: "Harry Potter"
+    number: 2
+  metadata:
+    genres:
+      - "Fantasy"
+    language: en
+- title: "Harry Potter and the Prisoner of Azkaban"
+  authors:
+    - "J. K. Rowling"
+  series:
+    name: "Harry Potter"
+    number: 3
+  metadata:
+    genres:
+      - "Fantasy"
+    language: en
+- title: "Harry Potter and the Goblet of Fire"
+  authors:
+    - "J. K. Rowling"
+  series:
+    name: "Harry Potter"
+    number: 4
+  metadata:
+    genres:
+      - "Fantasy"
+    language: en
+- title: "Harry Potter and the Order of the Phoenix"
+  authors:
+    - "J. K. Rowling"
+  series:
+    name: "Harry Potter"
+    number: 5
+  metadata:
+    genres:
+      - "Fantasy"
+    language: en
+- title: "Harry Potter and the Half-Blood Prince"
+  authors:
+    - "J. K. Rowling"
+  series:
+    name: "Harry Potter"
+    number: 6
+  metadata:
+    genres:
+      - "Fantasy"
+    language: en
+- title: "Harry Potter and the Deathly Hallows"
+  authors:
+    - "J. K. Rowling"
+  series:
+    name: "Harry Potter"
+    number: 7
+  metadata:
+    genres:
+      - "Fantasy"
+    language: en
+- title: "Harry Potter a Dary smrti"
+  authors:
+    - "J. K. Rowling"
+  series:
+    name: "Harry Potter"
+    number: 7
+  metadata:
+    genres:
+      - "Fantasy"
+- title: "Harry Potter a Kameň mudrcov"
+  authors:
+    - "J. K. Rowling"
+  series:
+    name: "Harry Potter"
+    number: 1
+  metadata:
+    genres:
+      - "Fantasy"
+- title: "Harry Potter en de Steen der Wijzen"
+  authors:
+    - "J. K. Rowling"
+  series:
+    name: "Harry Potter"
+    number: 1
+  metadata:
+    genres:
+      - "Fantasy"
+    language: nl
+- title: "Harry Potter en de Geheime Kamer"
+  authors:
+    - "J. K. Rowling"
+  series:
+    name: "Harry Potter"
+    number: 2
+  metadata:
+    genres:
+      - "Fantasy"
+    language: nl
+- title: "Harry Potter en de Gevangene van Azkaban"
+  authors:
+    - "J. K. Rowling"
+  series:
+    name: "Harry Potter"
+    number: 3
+  metadata:
+    genres:
+      - "Fantasy"
+    language: nl
+  comment: |
+    we have this twice
+- title: "Harry Potter en de Vuurbeker"
+  authors:
+    - "J. K. Rowling"
+  series:
+    name: "Harry Potter"
+    number: 4
+  metadata:
+    genres:
+      - "Fantasy"
+    language: nl
+- title: "Harry Potter en de Orde van de Feniks"
+  authors:
+    - "J. K. Rowling"
+  series:
+    name: "Harry Potter"
+    number: 5
+  metadata:
+    genres:
+      - "Fantasy"
+    language: nl
+- title: "Harry Potter en de Halfbloed Prins"
+  authors:
+    - "J. K. Rowling"
+  series:
+    name: "Harry Potter"
+    number: 6
+  metadata:
+    genres:
+      - "Fantasy"
+    language: nl
+- title: "Harry Potter en de Relieken van de Dood"
+  authors:
+    - "J. K. Rowling"
+  series:
+    name: "Harry Potter"
+    number: 7
+  metadata:
+    genres:
+      - "Fantasy"
+    language: nl
+- title: "The Martian"
+  authors:
+    - "Andy Weir"
+  metadata:
+    genres:
+      - "Science Fiction"
+    language: en
+- title: "Project Hail Mary"
+  authors:
+    - "Andy Weir"
+  metadata:
+    genres:
+      - "Science Fiction"
+    format: paperback
+    language: en
+- title: "The Art of Horizon Forbidden West"
+  series:
+    name: "Horizon Artbooks"
+    number: 2
+  metadata:
+    genres:
+      - "Artbook"
+    format: hardcover
+    language: en
+  comment: |
+    from Daniel for birthday 2026
+- title: "The Principia: Mathematical Principles of Natural Philosophy"
+  authors:
+    - "Anne Whitman"
+    - "I. Bernhard Cohen"
+    - "Isaac Newton"
+  metadata:
+    genres:
+      - "Mathematics"
+      - "Science"
+    language: en
+- title: "Structures or Why things don’t fall down"
+  authors:
+    - "J. E. Gordon"
+  metadata:
+    genres:
+      - "Engineering"
+      - "Science"
+    language: en
+- title: "In Search of Schrödinger’s Cat"
+  authors:
+    - "John Gribbin"
+  metadata:
+    genres:
+      - "Physics"
+      - "Science"
+    language: en
+- title: "Brief Answers to the Big Questions"
+  authors:
+    - "Stephen Hawking"
+  metadata:
+    genres:
+      - "Physics"
+      - "Science"
+    language: en
+- title: "A Brief History of Time"
+  authors:
+    - "Stephen Hawking"
+  metadata:
+    genres:
+      - "Physics"
+      - "Science"
+    language: en
+- title: "Dictators: The Cult of Personality in the Twentieth Century"
+  authors:
+    - "Frank Dikötter"
+  metadata:
+    genres:
+      - "History"
+      - "Politics"
+    language: en
+- title: "Schadenfreude: Why We Feel Better When Bad Things Happen to Other People"
+  authors:
+    - "Tiffany Watt Smith"
+  metadata:
+    genres:
+      - "Psychology"
+      - "Science"
+    language: en
+- title: "what if?"
+  authors:
+    - "Randall Munroe"
+  series:
+    name: "what if?"
+    number: 1
+  metadata:
+    genres:
+      - "Humor"
+      - "Science"
+    language: en
+- title: "Algorithms to Live By"
+  authors:
+    - "Brian Christian"
+    - "Tom Griffiths"
+  metadata:
+    genres:
+      - "Computer Science"
+      - "Science"
+    language: en
+- title: "Verified Functional Programming in Agda"
+  authors:
+    - "Aaron Stump"
+  metadata:
+    genres:
+      - "Computer Science"
+      - "Science"
+    language: en
+- title: "Types and Programming Languages"
+  authors:
+    - "Benjamin C. Pierce"
+  metadata:
+    genres:
+      - "Computer Science"
+      - "Science"
+    language: en
+- title: "Effective Software Testing"
+  authors:
+    - "Maurício Aniche"
+  metadata:
+    genres:
+      - "Computer Science"
+      - "Science"
+    language: en
+- title: "Steve Jobs: de biografie"
+  authors:
+    - "Walter Isaacson"
+  metadata:
+    genres:
+      - "Biography"
+    language: nl
+- title: "Born to Run: Mijn Verhaal"
+  authors:
+    - "Bruce Springsteen"
+  metadata:
+    genres:
+      - "Biography"
+    language: nl
+- title: "Jamie’s 15 Minute Meals"
+  metadata:
+    genres:
+      - "Cookbook"
+    language: en
+- title: "Colloquial Slovak: The Complete Course for Beginners"
+  authors:
+    - "James Naughton"
+  metadata:
+    genres:
+      - "Language Book"
+    language: en
+- title: "The World’s Best Street Food"
+  authors:
+    - "Lonely Planet"
+  metadata:
+    genres:
+      - "Cookbook"
+    language: en
+- title: "Carry on, Jeeves"
+  authors:
+    - "P. G. Wodehouse"
+  metadata:
+    language: en
+- title: "The Rosetta Stone"
+  authors:
+    - "John Ray"
+  metadata:
+    genres:
+      - "History"
+    language: en
+- title: "Dune"
+  authors:
+    - "Frank Herbert"
+  series:
+    name: "Dune Chronicles"
+    number: 1
+  metadata:
+    genres:
+      - "High Fantasy"
+    language: en
+- title: "The Golden Compass"
+  authors:
+    - "Philip Pullman"
+  series:
+    name: "His Dark Materials"
+    number: 1
+  metadata:
+    genres:
+      - "High Fantasy"
+    language: en
+- title: "The Subtle Knife"
+  authors:
+    - "Philip Pullman"
+  series:
+    name: "His Dark Materials"
+    number: 2
+  metadata:
+    genres:
+      - "High Fantasy"
+    language: en
+- title: "The Amber Spyglass"
+  authors:
+    - "Philip Pullman"
+  series:
+    name: "His Dark Materials"
+    number: 3
+  metadata:
+    genres:
+      - "High Fantasy"
+    language: en
+- title: "She Who Became the Sun"
+  authors:
+    - "Shelley Parker-Chan"
+  series:
+    name: "Radiant Emperor"
+    number: 1
+  metadata:
+    genres:
+      - "Fantasy"
+      - "Historical Novel"
+    language: en
+- title: "The Ruin of Kings"
+  authors:
+    - "Jenn Lyons"
+  series:
+    name: "A Chorus of Dragons"
+    number: 1
+  metadata:
+    genres:
+      - "High Fantasy"
+    language: en
+- title: "A Deadly Education"
+  authors:
+    - "Naomi Novik"
+  series:
+    name: "The Scholomance"
+    number: 1
+  metadata:
+    genres:
+      - "Fantasy"
+    language: en
+- title: "De Rode Piramide"
+  authors:
+    - "Rick Riordan"
+  series:
+    name: "The Kane Chronicles"
+    number: 1
+  metadata:
+    genres:
+      - "Egyptian Mythology"
+      - "Fantasy"
+    language: nl
+- title: "The Red Pyramid"
+  authors:
+    - "Rick Riordan"
+  series:
+    name: "The Kane Chronicles"
+    number: 1
+  metadata:
+    genres:
+      - "Egyptian Mythology"
+      - "Fantasy"
+    language: en
+- title: "Pillars of the Earth"
+  authors:
+    - "Ken Follett"
+  series:
+    name: "Kingsbridge"
+    number: 1
+  metadata:
+    genres:
+      - "Historical Novel"
+    language: en
+- title: "World Without End"
+  authors:
+    - "Ken Follett"
+  series:
+    name: "Kingsbridge"
+    number: 2
+  metadata:
+    genres:
+      - "Historical Novel"
+    language: en
+- title: "A Column of Fire"
+  authors:
+    - "Ken Follett"
+  series:
+    name: "Kingsbridge"
+    number: 3
+  metadata:
+    genres:
+      - "Historical Novel"
+    language: en
+- title: "Fall of Giants"
+  authors:
+    - "Ken Follett"
+  series:
+    name: "The Century Trilogy"
+    number: 1
+  metadata:
+    genres:
+      - "Historical Novel"
+    language: en
+- title: "Winter of the World"
+  authors:
+    - "Ken Follett"
+  series:
+    name: "The Century Trilogy"
+    number: 2
+  metadata:
+    genres:
+      - "Historical Novel"
+    language: en
+- title: "Edge of Eternity"
+  authors:
+    - "Ken Follett"
+  series:
+    name: "The Century Trilogy"
+    number: 3
+  metadata:
+    genres:
+      - "Historical Novel"
+    language: en
+- title: "Whiteout"
+  authors:
+    - "Ken Follett"
+  metadata:
+    genres:
+      - "Thriller"
+    language: en
+- title: "Jackdaws"
+  authors:
+    - "Ken Follett"
+  metadata:
+    genres:
+      - "Thriller"
+    language: en
+- title: "Hornet Flight"
+  authors:
+    - "Ken Follett"
+  metadata:
+    genres:
+      - "Thriller"
+    language: en
+- title: "The Evening and the Morning"
+  authors:
+    - "Ken Follett"
+  metadata:
+    genres:
+      - "Historical Novel"
+    language: en
+  comment: |
+    prequel
+- title: "City of Bones"
+  authors:
+    - "Cassandra Clare"
+  series:
+    name: "The Mortal Instruments"
+    number: 1
+  metadata:
+    genres:
+      - "Fantasy"
+    language: en
+- title: "City of Ashes"
+  authors:
+    - "Cassandra Clare"
+  series:
+    name: "The Mortal Instruments"
+    number: 2
+  metadata:
+    genres:
+      - "Fantasy"
+    language: en
+- title: "City of Glass"
+  authors:
+    - "Cassandra Clare"
+  series:
+    name: "The Mortal Instruments"
+    number: 3
+  metadata:
+    genres:
+      - "Fantasy"
+    language: en
+- title: "City of Fallen Angels"
+  authors:
+    - "Cassandra Clare"
+  series:
+    name: "The Mortal Instruments"
+    number: 4
+  metadata:
+    genres:
+      - "Fantasy"
+    language: en
+- title: "City of Lost Souls"
+  authors:
+    - "Cassandra Clare"
+  series:
+    name: "The Mortal Instruments"
+    number: 5
+  metadata:
+    genres:
+      - "Fantasy"
+    language: en
+- title: "City of Heavenly Fire"
+  authors:
+    - "Cassandra Clare"
+  series:
+    name: "The Mortal Instruments"
+    number: 6
+  metadata:
+    genres:
+      - "Fantasy"
+    language: en
+- title: "Ghosts of the Shadow Market"
+  authors:
+    - "Cassandra Clare"
+  metadata:
+    genres:
+      - "Collection"
+      - "Fantasy"
+    language: en
+  comment: |
+    short stories
+- title: "Sapiens: A Brief History of Humankind"
+  authors:
+    - "Yuval Noah Harari"
+  series:
+    name: "Sapiens / Homo Deus"
+    number: 1
+  metadata:
+    genres:
+      - "Non-fiction"
+    language: en
+- title: "Homo Deus: A Brief History of Tomorrow"
+  authors:
+    - "Yuval Noah Harari"
+  series:
+    name: "Sapiens / Homo Deus"
+    number: 2
+  metadata:
+    genres:
+      - "Non-fiction"
+    language: en
+- title: "21 Lessons for the 21st Century"
+  authors:
+    - "Yuval Noah Harari"
+  metadata:
+    genres:
+      - "Non-fiction"
+    language: en
+- title: "I am Pilgrim"
+  authors:
+    - "Terry Hayes"
+  metadata:
+    genres:
+      - "Thriller"
+    language: en
+- title: "Harry Potter und der Stein der Weisen"
+  authors:
+    - "J. K. Rowling"
+  series:
+    name: "Harry Potter"
+    number: 1
+  metadata:
+    genres:
+      - "Fantasy"
+    language: de
+- title: "Odviate vetrom"
+  authors:
+    - "Margaret Mitchell"
+  series:
+    name: "Gone with the Wind"
+    number: 1
+  metadata:
+    genres:
+      - "Historical Novel"
+      - "Romance"
+- title: "Scarlett"
+  authors:
+    - "Alexandra Ripley"
+  series:
+    name: "Gone with the Wind"
+    number: 2
+  metadata:
+    genres:
+      - "Historical Novel"
+      - "Romance"
+- title: "A Day of the Fallen Night"
+  authors:
+    - "Samantha Shannon"
+  series:
+    name: "The Roots of Chaos"
+    number: 2
+  metadata:
+    genres:
+      - "High Fantasy"
+    language: en
+  comment: |
+    20x13 cm
+- title: "De verliefde graaf"
+  authors:
+    - "Julia Quinn"
+  series:
+    name: "Bridgerton"
+    number: 2
+  universe: The Bridgerton Series
+  metadata:
+    genres:
+      - "Romance"
+    language: nl
+- title: "The Night Circus"
+  authors:
+    - "Erin Morgenstern"
+  metadata:
+    genres:
+      - "Fantasy"
+    language: en
+- title: "The Royal Road to Card Magic"
+  authors:
+    - "Frederick Braué"
+    - "Jean Hugard"
+  metadata:
+    genres:
+      - "Learning Magic"
+    language: en
+- title: "The Expert at the Card Table: The Classic Treatise on Card Manipulation"
+  authors:
+    - "S. W. Erdnase"
+  metadata:
+    genres:
+      - "Learning Magic"
+    language: en
+- title: "Hebrew"
+  authors:
+    - "Lonely Planet"
+  metadata:
+    genres:
+      - "Language Book"
+    language: en
+- title: "Slovak phrasebook"
+  authors:
+    - "Lingea"
+  metadata:
+    genres:
+      - "Language Book"
+    language: en
+- title: "Gramatiky súčasnej slovenčiny"
+  authors:
+    - "Lingea"
+  metadata:
+    genres:
+      - "Language Book"
+- title: "anglicko-slovenský, slovensko-anglický vreckový slovník"
+  authors:
+    - "Lingea"
+  metadata:
+    genres:
+      - "Dictionary"
+- title: "Betonpocket 2020"
+  metadata:
+    genres:
+      - "Engineering"
+      - "Science"
+    language: nl
+- title: "Stuff Dutch People Like"
+  authors:
+    - "Colleen Geske"
+  metadata:
+    genres:
+      - "Humor"
+    language: en
+- title: "Murtagh"
+  authors:
+    - "Cristopher Paolini"
+  series:
+    name: "The Inheritance Cycle"
+    number: 5
+  universe: Alagaësia
+  metadata:
+    genres:
+      - "High Fantasy"
+    format: e-book
+    language: en
+- title: "Mechanica: Statisch onbepaalde constructies en bezwijkanalyse"
+  authors:
+    - "Coenraad Hartsuijker"
+    - "Hans Welleman"
+  metadata:
+    genres:
+      - "Engineering"
+      - "Science"
+    language: nl
+- title: "Rapportage-techniek"
+  authors:
+    - "Bas Andeweg"
+    - "Christine Swankhuisen"
+    - "Jaap de Jong"
+    - "RIen Elling"
+  metadata:
+    genres:
+      - "Engineering"
+      - "Science"
+    language: nl
+- title: "Mechanica: Evenwicht"
+  authors:
+    - "Coenraad Hartsuijker"
+    - "Hans Welleman"
+  metadata:
+    genres:
+      - "Engineering"
+      - "Science"
+    language: nl
+- title: "Mechanica: Spanningen, vervormingen, verplaatsingen"
+  authors:
+    - "Coenraad Hartsuijker"
+    - "Hans Welleman"
+  metadata:
+    genres:
+      - "Engineering"
+      - "Science"
+    language: nl
+- title: "Vol Smaak: Koken met verse ingrediënten"
+  metadata:
+    genres:
+      - "Cookbook"
+    language: nl
+  comment: |
+    aller hande
+- title: "no time to cook"
+  authors:
+    - "Donna Hay"
+  metadata:
+    genres:
+      - "Cookbook"
+    language: nl
+- title: "Arcanum Unbounded: The Cosmere Collection"
+  authors:
+    - "Brandon Sanderson"
+  universe: Cosmere
+  metadata:
+    genres:
+      - "Collection"
+      - "High Fantasy"
+    language: en
+- title: "what if? 2"
+  authors:
+    - "Randall Munroe"
+  series:
+    name: "what if?"
+    number: 2
+  metadata:
+    genres:
+      - "Humor"
+      - "Science"
+    language: en
+- title: "Tress of the Emerald Sea"
+  authors:
+    - "Brandon Sanderson"
+  series:
+    name: "Hoid's Travails"
+    number: 1
+  universe: Cosmere
+  metadata:
+    genres:
+      - "High Fantasy"
+    language: en
+- title: "The Joy of Abstraction"
+  authors:
+    - "Eugenia Cheng"
+  metadata:
+    genres:
+      - "Mathematics"
+      - "Science"
+    language: en
+- title: "Yumi and the Nightmare Painter"
+  authors:
+    - "Brandon Sanderson"
+  series:
+    name: "Hoid's Travails"
+    number: 2
+  universe: Cosmere
+  metadata:
+    genres:
+      - "High Fantasy"
+    format: paperback
+    language: en
+- title: "The Sunlit Man"
+  authors:
+    - "Brandon Sanderson"
+  universe: Cosmere
+  metadata:
+    genres:
+      - "High Fantasy"
+    language: en
+- title: "Skyward"
+  authors:
+    - "Brandon Sanderson"
+  series:
+    name: "Skyward"
+    number: 1
+  universe: Cytoverse
+  metadata:
+    genres:
+      - "Science Fiction"
+    language: en
+- title: "Starsight"
+  authors:
+    - "Brandon Sanderson"
+  series:
+    name: "Skyward"
+    number: 2
+  universe: Cytoverse
+  metadata:
+    genres:
+      - "Science Fiction"
+    language: en
+- title: "Cytonic"
+  authors:
+    - "Brandon Sanderson"
+  series:
+    name: "Skyward"
+    number: 3
+  universe: Cytoverse
+  metadata:
+    genres:
+      - "Science Fiction"
+    language: en
+- title: "The Duke & I"
+  authors:
+    - "Julia Quinn"
+  series:
+    name: "Bridgerton"
+    number: 1
+  universe: The Bridgerton Series
+  metadata:
+    genres:
+      - "Romance"
+    format: e-book
+    language: en
+  comment: |
+    Daphne & Simon
+- title: "The Viscount Who Loved Me"
+  authors:
+    - "Julia Quinn"
+  series:
+    name: "Bridgerton"
+    number: 2
+  universe: The Bridgerton Series
+  metadata:
+    genres:
+      - "Romance"
+    format: e-book
+    language: en
+  comment: |
+    Anthony & Kate
+- title: "An Offer from a Gentleman"
+  authors:
+    - "Julia Quinn"
+  series:
+    name: "Bridgerton"
+    number: 3
+  universe: The Bridgerton Series
+  metadata:
+    genres:
+      - "Romance"
+    format: e-book
+    language: en
+  comment: |
+    Benedict & Sophie
+- title: "Romancing Mister Bridgerton"
+  authors:
+    - "Julia Quinn"
+  series:
+    name: "Bridgerton"
+    number: 4
+  universe: The Bridgerton Series
+  metadata:
+    genres:
+      - "Romance"
+    format: e-book
+    language: en
+  comment: |
+    Colin & Penelope
+- title: "To Sir Phillip, With Love"
+  authors:
+    - "Julia Quinn"
+  series:
+    name: "Bridgerton"
+    number: 5
+  universe: The Bridgerton Series
+  metadata:
+    genres:
+      - "Romance"
+    format: e-book
+    language: en
+  comment: |
+    Eloise & Phillip
+- title: "When He Was Wicked"
+  authors:
+    - "Julia Quinn"
+  series:
+    name: "Bridgerton"
+    number: 6
+  universe: The Bridgerton Series
+  metadata:
+    genres:
+      - "Romance"
+    format: e-book
+    language: en
+  comment: |
+    Francesca & Michael
+- title: "Skyward Flight"
+  authors:
+    - "Brandon Sanderson"
+    - "Janci Patterson"
+  universe: Cytoverse
+  metadata:
+    genres:
+      - "Collection"
+      - "Science Fiction"
+    format: paperback
+    language: en
+  comment: |
+    black cover, 12.8 x 19.6 cm (https://www.amazon.nl/gp/product/1399602152/ref=ox_sc_act_title_1?smid=A17D2BRD4YMT0X&psc=1)
+- title: "Defiant"
+  authors:
+    - "Brandon Sanderson"
+  series:
+    name: "Skyward"
+    number: 4
+  universe: Cytoverse
+  metadata:
+    genres:
+      - "Science Fiction"
+    language: en
+  comment: |
+    black cover, 12.8 x 19.6 cm
+- title: "Fourth Wing"
+  authors:
+    - "Rebecca Yarros"
+  series:
+    name: "The Empyrean"
+    number: 1
+  metadata:
+    genres:
+      - "Fantasy"
+      - "Romance"
+    format: e-book
+    language: en
+- title: "Iron Flame"
+  authors:
+    - "Rebecca Yarros"
+  series:
+    name: "The Empyrean"
+    number: 2
+  metadata:
+    genres:
+      - "Fantasy"
+      - "Romance"
+    format: e-book
+    language: en
+- title: "The Frugal Wizard's Handbook for Surviving Medieval England"
+  authors:
+    - "Brandon Sanderson"
+  metadata:
+    genres:
+      - "Fantasy"
+    format: paperback
+    language: en
+- title: "Wind and Truth"
+  authors:
+    - "Brandon Sanderson"
+  series:
+    name: "The Stormlight Archive"
+    number: 5
+  universe: Cosmere
+  metadata:
+    genres:
+      - "High Fantasy"
+    format: paperback
+    language: en
+- title: "It’s in His Kiss"
+  authors:
+    - "Julia Quinn"
+  series:
+    name: "Bridgerton"
+    number: 7
+  universe: The Bridgerton Series
+  metadata:
+    genres:
+      - "Romance"
+    format: e-book
+    language: en
+  comment: |
+    Hyacinth & Gareth
+- title: "On the Way to the Wedding"
+  authors:
+    - "Julia Quinn"
+  series:
+    name: "Bridgerton"
+    number: 7
+  universe: The Bridgerton Series
+  metadata:
+    genres:
+      - "Romance"
+    format: e-book
+    language: en
+  comment: |
+    Gregory & Lucy
+- title: "Because of Miss Bridgerton"
+  authors:
+    - "Julia Quinn"
+  series:
+    name: "Rokesby"
+    number: 1
+  universe: The Bridgerton Series
+  metadata:
+    genres:
+      - "Romance"
+    format: e-book
+    language: en
+  comment: |
+    George & Billie
+- title: "Odyssey"
+  authors:
+    - "Stephen Fry"
+  series:
+    name: "Great Mythology"
+    number: 4
+  metadata:
+    genres:
+      - "Greek Mythology"
+    language: en
+- title: "Tomorrow, and Tomorrow, and Tomorrow"
+  authors:
+    - "Gabrielle Zevin"
+  metadata:
+    genres:
+      - "Romance"
+    format: paperback
+    language: en
+- title: "Troy: Lord of the Silver Bow"
+  authors:
+    - "David Gemmell"
+  metadata:
+    genres:
+      - "Greek Mythology"
+    format: paperback
+    language: en
+  comment: |
+    from Daniel for birthday 2025
+- title: "Surely You're Joking, Mr. Feynman!"
+  authors:
+    - "Richard P. Feynman"
+  metadata:
+    genres:
+      - "Biography"
+    format: paperback
+    language: en
+- title: "A Discovery of Witches"
+  authors:
+    - "Deborah Harkness"
+  series:
+    name: "All Souls"
+    number: 1
+  metadata:
+    genres:
+      - "Fantasy"
+    format: e-book
+    language: en
+- title: "Shadow of Night"
+  authors:
+    - "Deborah Harkness"
+  series:
+    name: "All Souls"
+    number: 2
+  metadata:
+    genres:
+      - "Fantasy"
+    format: e-book
+    language: en
+- title: "The Book of Life"
+  authors:
+    - "Deborah Harkness"
+  series:
+    name: "All Souls"
+    number: 3
+  metadata:
+    genres:
+      - "Fantasy"
+    format: e-book
+    language: en
+- title: "Legends & Lattes"
+  authors:
+    - "Travis Baldree"
+  metadata:
+    genres:
+      - "Fantasy"
+    format: paperback
+    language: en
+- title: "Red Rising"
+  authors:
+    - "Pierce Brown"
+  series:
+    name: "Red Rising Saga"
+    number: 1
+  metadata:
+    genres:
+      - "Fantasy"
+    format: paperback
+    language: en
+- title: "Renegades"
+  authors:
+    - "Marissa Meyer"
+  series:
+    name: "Renegades"
+    number: 1
+  metadata:
+    genres:
+      - "Fantasy"
+    format: paperback
+    language: en
+- title: "Archenemies"
+  authors:
+    - "Marissa Meyer"
+  series:
+    name: "Renegades"
+    number: 2
+  metadata:
+    genres:
+      - "Fantasy"
+    format: paperback
+    language: en
+- title: "Supernova"
+  authors:
+    - "Marissa Meyer"
+  series:
+    name: "Renegades"
+    number: 3
+  metadata:
+    genres:
+      - "Fantasy"
+    format: paperback
+    language: en
+- title: "Scythe"
+  authors:
+    - "Neal Shusterman"
+  series:
+    name: "Arc of a Scythe"
+    number: 1
+  metadata:
+    genres:
+      - "Fantasy"
+    format: paperback
+    language: en
+- title: "Thunderhead"
+  authors:
+    - "Neal Shusterman"
+  series:
+    name: "Arc of a Scythe"
+    number: 2
+  metadata:
+    genres:
+      - "Fantasy"
+    format: paperback
+    language: en
+- title: "The Toll"
+  authors:
+    - "Neal Shusterman"
+  series:
+    name: "Arc of a Scythe"
+    number: 3
+  metadata:
+    genres:
+      - "Fantasy"
+    format: paperback
+    language: en
+- title: "House of Earth and Blood"
+  authors:
+    - "Sarah J. Maas"
+  series:
+    name: "Crescent City"
+    number: 1
+  metadata:
+    genres:
+      - "Fantasy"
+    format: e-book
+    language: en
+- title: "House of Sky and Breath"
+  authors:
+    - "Sarah J. Maas"
+  series:
+    name: "Crescent City"
+    number: 2
+  metadata:
+    genres:
+      - "Fantasy"
+    format: e-book
+    language: en
+- title: "The Long Way to a Small, Angry Planet"
+  authors:
+    - "Becky Chambers"
+  series:
+    name: "Wayfarers"
+    number: 1
+  metadata:
+    genres:
+      - "Science Fiction"
+    format: paperback
+    language: en
+- title: "House of Flame and Shadow"
+  authors:
+    - "Sarah J. Maas"
+  series:
+    name: "Crescent City"
+    number: 3
+  metadata:
+    genres:
+      - "Fantasy"
+    format: e-book
+    language: en
+- title: "The Spear Cuts Through Water"
+  authors:
+    - "Simon Jimenez"
+  metadata:
+    genres:
+      - "Fantasy"
+    format: paperback
+    language: en
+- title: "The Lost Hero"
+  authors:
+    - "Rick Riordan"
+  series:
+    name: "Heroes of Olympus"
+    number: 1
+  universe: Percy Jackson and the Olympians
+  metadata:
+    genres:
+      - "Fantasy"
+      - "Greek Mythology"
+    format: e-book
+    language: en
+- title: "The Son of Neptune"
+  authors:
+    - "Rick Riordan"
+  series:
+    name: "Heroes of Olympus"
+    number: 2
+  universe: Percy Jackson and the Olympians
+  metadata:
+    genres:
+      - "Fantasy"
+      - "Greek Mythology"
+    format: e-book
+    language: en
+- title: "The Mark of Athena"
+  authors:
+    - "Rick Riordan"
+  series:
+    name: "Heroes of Olympus"
+    number: 3
+  universe: Percy Jackson and the Olympians
+  metadata:
+    genres:
+      - "Fantasy"
+      - "Greek Mythology"
+    format: e-book
+    language: en
+- title: "The House of Hades"
+  authors:
+    - "Rick Riordan"
+  series:
+    name: "Heroes of Olympus"
+    number: 4
+  universe: Percy Jackson and the Olympians
+  metadata:
+    genres:
+      - "Fantasy"
+      - "Greek Mythology"
+    format: e-book
+    language: en
+- title: "The Blood of Olympus"
+  authors:
+    - "Rick Riordan"
+  series:
+    name: "Heroes of Olympus"
+    number: 5
+  universe: Percy Jackson and the Olympians
+  metadata:
+    genres:
+      - "Fantasy"
+      - "Greek Mythology"
+    format: e-book
+    language: en
+- title: "The Hidden Oracle"
+  authors:
+    - "Rick Riordan"
+  series:
+    name: "The Trials of Apollo"
+    number: 1
+  universe: Percy Jackson and the Olympians
+  metadata:
+    genres:
+      - "Fantasy"
+      - "Greek Mythology"
+    format: e-book
+    language: en
+- title: "The Chalice of the Gods"
+  authors:
+    - "Rick Riordan"
+  series:
+    name: "The Senior Year Adventures"
+    number: 1
+  universe: Percy Jackson and the Olympians
+  metadata:
+    genres:
+      - "Fantasy"
+      - "Greek Mythology"
+    format: e-book
+    language: en
+- title: "Vojna bohov"
+  authors:
+    - "Rick Riordan"
+  series:
+    name: "Percy Jackson and the Olympians"
+    number: 5
+  universe: Percy Jackson and the Olympians
+  metadata:
+    genres:
+      - "Fantasy"
+      - "Greek Mythology"
+    format: hardcover
+- title: "The Sun and the Star"
+  authors:
+    - "Rick Riordan"
+  series:
+    name: "The Nico di Angelo Adventures"
+    number: 1
+  universe: Percy Jackson and the Olympians
+  metadata:
+    genres:
+      - "Fantasy"
+      - "Greek Mythology"
+    format: e-book
+    language: en
+- title: "Sew Step by Step: How to Use Your Sewing Machine to Make, Mend, and Customize"
+  authors:
+    - "Alison Smith"
+  metadata:
+    genres:
+      - "Arts & Crafts"
+    format: hardcover
+    language: en
+- title: ""
+- title: "Polaroid: The Missing Manual"
+  authors:
+    - "Rhiannon Adam"
+  metadata:
+    genres:
+      - "Arts & Crafts"
+    format: hardcover
+    language: en
+- title: "Dejiny Írska"
+  metadata:
+    genres:
+      - "History"
+    format: hardcover
+- title: "The Complete Urban Sketching Companion"
+  authors:
+    - "Gabriel Campanario"
+    - "Shari Blaukopf"
+    - "Stephanie Bower"
+  metadata:
+    genres:
+      - "Arts & Crafts"
+    format: paperback
+    language: en
+  comment: |
+    from Jelco for Sinterklaas 2025
+- title: "Baudolino"
+  metadata:
+    format: hardcover
+- title: "The Art of Arcane"
+  metadata:
+    genres:
+      - "Artbook"
+    format: hardcover
+    language: en
+  comment: |
+    from rodičia for birthday 2026
+- title: "The Devils"
+  authors:
+    - "Joe Abercrombie"
+  metadata:
+    genres:
+      - "Fantasy"
+    format: paperback
+    language: en
+- title: "Heated Rivalry"
+  authors:
+    - "Rachel Reid"
+  series:
+    name: "Game Changers"
+    number: 2
+  metadata:
+    genres:
+      - "Romance"
+    format: e-book
+    language: en
+- title: "The Long Game"
+  authors:
+    - "Rachel Reid"
+  series:
+    name: "Game Changers"
+    number: 6
+  metadata:
+    genres:
+      - "Romance"
+    format: e-book
+    language: en
+- title: "Isles of the Emberdark"
+  authors:
+    - "Brandon Sanderson"
+  universe: Cosmere
+  metadata:
+    genres:
+      - "High Fantasy"
+    format: paperback
+    language: en
+- title: "The Deal"
+  authors:
+    - "Elle Kennedy"
+  series:
+    name: "Off-Campus"
+    number: 1
+  metadata:
+    genres:
+      - "Romance"
+    format: e-book
+    language: en
+- title: "The Mistake"
+  authors:
+    - "Elle Kennedy"
+  series:
+    name: "Off-Campus"
+    number: 2
+  metadata:
+    genres:
+      - "Romance"
+    format: e-book
+    language: en
+- title: "The Score"
+  authors:
+    - "Elle Kennedy"
+  series:
+    name: "Off-Campus"
+    number: 3
+  metadata:
+    genres:
+      - "Romance"
+    format: e-book
+    language: en
+- title: "The Legacy"
+  authors:
+    - "Elle Kennedy"
+  series:
+    name: "Off-Campus"
+    number: 5
+  metadata:
+    genres:
+      - "Romance"
+    format: e-book
+    language: en
+- title: "Tailored Realities"
+  authors:
+    - "Brandon Sanderson"
+  metadata:
+    genres:
+      - "Collection"
+      - "Science Fiction"
+    format: paperback
+    language: en
+  comment: |
+    from Jelco for 2000-day-aversary
+- title: "Sto pod nulou"
+  authors:
+    - "Art Davidson"
+  metadata:
+    genres:
+      - "Reportage"
+    format: paperback
+    language: sk
+- title: "Nestratiť sa sama sebe"
+  authors:
+    - "Erik Tabery"
+    - "Zuzana Čaputová"
+  metadata:
+    genres:
+      - "Interview"
+    format: hardcover
+    language: sk
+- title: "Stopárov sprievodca galaxiou: Kompletné vydanie"
+  authors:
+    - "Douglas Adams"
+  metadata:
+    genres:
+      - "Science Fiction"
+    format: paperback
+    language: sk
