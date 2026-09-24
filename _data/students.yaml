@@ -1,10 +1,17 @@
 - type: msc
   year:
+    start: 2026
+    end: 
+  name: Maria Cristescu 
+  title: "Specification-Based Boundaries for Black-Box Implementations"
+  link: https://pl.ewi.tudelft.nl
+- type: msc
+  year:
     start: 2025
-    end:
+    end: 2026
   name: Georgi Nihrizov
   title: "Hole-Driven Development for Ownership Types"
-  link: https://pl.ewi.tudelft.nl/master-projects/master/2025/11/11/georgi-nihrizov/
+  link: https://resolver.tudelft.nl/uuid:12e8946e-6479-49f6-bd26-8ffddf39ffb1
 - type: msc
   year:
     start: 2025
